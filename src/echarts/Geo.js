@@ -8,10 +8,10 @@ function App() {
     echarts.registerMap('IT', data);
     const options = {
       color: ['#5c6f82', '#BFDFFF', '#207BD6', '#004D99', '#6AAAEB'],
-      title: {
-        text: 'Population Density italy regions',
-        subtext: 'Data from Wikipedia',
-      },
+      // title: {
+      //   text: 'Population Density italy regions',
+      //   subtext: 'Data from Wikipedia',
+      // },
       tooltip: {
         trigger: 'item',
         formatter: '{a}<br/>{b}<br/>{c}',
@@ -59,7 +59,8 @@ function App() {
               color: '#eee',
             },
           },
-          zoom: 1.2,
+          zoom: 1.3,
+          roam: 'scale',
           data: [
             { name: 'Abruzzo', value: 30 },
             { name: 'Basilicata', value: 23 },
