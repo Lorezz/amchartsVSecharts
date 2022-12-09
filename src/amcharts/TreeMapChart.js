@@ -222,7 +222,7 @@ function App() {
       <div
         id="chartdiv"
         ref={ref}
-        style={{ width: '900px', height: '500px' }}
+        style={{ width: '100%', maxWidth: '900px', height: '500px' }}
       ></div>
     </div>
   );
