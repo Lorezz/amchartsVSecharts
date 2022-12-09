@@ -84,7 +84,7 @@ function App() {
         pinchZoomX: false,
       })
     );
-    chart.get('colors').set('colors', colors);
+    // chart.get('colors').set('colors', colors);
     // chart.get('colors').set('step', 3);
 
     // Add cursor
@@ -131,6 +131,7 @@ function App() {
     series.strokes.template.setAll({
       strokeWidth: 2,
     });
+    // series.get('colors').set('colors', colors);
 
     series.get('tooltip').get('background').set('fillOpacity', 0.5);
 
@@ -144,7 +145,7 @@ function App() {
       })
     );
     series2.strokes.template.setAll({
-      strokeDasharray: [2, 2],
+      // strokeDasharray: [2, 2],
       strokeWidth: 2,
     });
 

@@ -3,6 +3,7 @@ import HalfBars from './HalfBars';
 import Donut from './Donut';
 import TreeMap from './TreeMap';
 import Geo from './Geo';
+import Lines from './Lines';
 // import ProvaGeo from './ProvaGeo';
 import '../index.css';
 function App() {
@@ -28,6 +29,9 @@ function App() {
       </div>
       <div className="chart-container">
         <Donut />
+      </div>
+      <div className="chart-container">
+        <Lines />
       </div>
       <div className="chart-container">
         <TreeMap />

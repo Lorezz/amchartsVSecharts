@@ -24,6 +24,7 @@ function App() {
       <HBarChart />
       <InlineBarChart />
       <DonutChart />
+      <LineChart />
       <TreeMapChart />
       <GeoChart />
     </div>
