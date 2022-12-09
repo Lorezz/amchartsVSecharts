@@ -24,6 +24,9 @@ function App() {
         <HalfBars />
       </div>
       <div className="chart-container">
+        <Bars />
+      </div>
+      <div className="chart-container">
         <Donut />
       </div>
       <div className="chart-container">
@@ -32,7 +35,6 @@ function App() {
       <div className="chart-container">
         <Geo />
       </div>
-      <Bars />
     </div>
   );
 }

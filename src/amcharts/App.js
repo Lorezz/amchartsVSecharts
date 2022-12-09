@@ -22,10 +22,10 @@ function App() {
         </ul>
       </div>
       <HBarChart />
+      <InlineBarChart />
       <DonutChart />
       <TreeMapChart />
       <GeoChart />
-      <InlineBarChart />
     </div>
   );
 }
