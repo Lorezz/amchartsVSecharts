@@ -59,6 +59,7 @@ function App() {
               color: '#eee',
             },
           },
+          zoom: 1.2,
           data: [
             { name: 'Abruzzo', value: 30 },
             { name: 'Basilicata', value: 23 },
