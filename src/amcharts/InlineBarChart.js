@@ -13,36 +13,42 @@ function App() {
       name: '1.4.5 Digitalizzazione degli avvisi pubblici',
       stanziati: 200,
       spesi: 150,
+      fake: 600,
     },
     {
       label: '1.4.4',
       name: '1.4.4 Adozione identità digitale',
       stanziati: 400,
       spesi: 280,
+      fake: 600,
     },
     {
       label: '1.2',
       name: '1.2 Abilitazione e facilitazione migrazione al Cloud',
       stanziati: 500,
       spesi: 300,
+      fake: 600,
     },
     {
       label: '1.3.1',
       name: '1.3.1 Piattaforma Digitale Nazionale Dati',
       stanziati: 360,
       spesi: 350,
+      fake: 600,
     },
     {
       label: '1.4.1',
       name: '1.4.1 Esperienza del cittadino nei servizi pubblici',
       stanziati: 200,
       spesi: 250,
+      fake: 600,
     },
     {
       label: '1.4.3',
       name: '1.4.3 Adozione PagoPa e AppIo',
       stanziati: 280,
       spesi: 320,
+      fake: 600,
     },
   ];
   useEffect(() => {
@@ -57,7 +63,7 @@ function App() {
       //   am5.color(0x6aaaeb),
       // ];
       const colors = [
-        // am5.color(0xffffff),
+        am5.color(0xffffff),
         am5.color(0x94c4f5),
         am5.color(0x0066cc),
       ];
@@ -112,6 +118,56 @@ function App() {
         })
       );
 
+      function createFakeSeries(field, name) {
+        let series = chart.series.push(
+          am5xy.ColumnSeries.new(root, {
+            name: name,
+            xAxis: xAxis,
+            yAxis: yAxis,
+            valueXField: field,
+            categoryYField: 'label',
+            sequencedInterpolation: true,
+          })
+        );
+
+        series.columns.template.setAll({
+          height: am5.p50,
+        });
+
+        series.data.setAll(data);
+
+        // series.bullets.push(function () {
+        //   return am5.Bullet.new(root, {
+        //     locationX: 1,
+        //     locationY: 0.5,
+        //     sprite: am5.Label.new(root, {
+        //       centerY: am5.p50,
+        //       text: '{valueY}',
+        //       populateText: true,
+        //       fontFamily: 'monospace',
+        //     }),
+        //   });
+        // });
+        series.bullets.push(function () {
+          return am5.Bullet.new(root, {
+            locationX: 0,
+            locationY: 0,
+            sprite: am5.Label.new(root, {
+              centerY: am5.p50,
+              text: '{name}',
+              fill: am5.color(0x000000),
+              populateText: true,
+              fontFamily: 'monospace',
+              fontWeight: 'bold',
+              fontSize: '1em',
+            }),
+          });
+        });
+        series.appear();
+
+        return series;
+      }
+
       // Add series
       // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
       function createSeries(field, name) {
@@ -126,7 +182,7 @@ function App() {
             tooltip: am5.Tooltip.new(root, {
               fontFamily: 'monospace',
               pointerOrientation: 'horizontal',
-              labelText: '[bold]{name}[/]\n{categoryY}: {valueX}',
+              labelText: `[bold]${name}[/]\n{categoryY}: {valueX}`,
             }),
           })
         );
@@ -141,36 +197,7 @@ function App() {
         return series;
       }
 
-      //  series.bullets.push(function () {
-      //    return am5.Bullet.new(root, {
-      //      locationX: 1,
-      //      locationY: 0.5,
-      //      sprite: am5.Label.new(root, {
-      //        centerY: am5.p50,
-      //        text: '{valueX}',
-      //        populateText: true,
-      //        fontFamily: 'monospace',
-      //      }),
-      //    });
-      //  });
-
-      //  series.bullets.push(function () {
-      //    return am5.Bullet.new(root, {
-      //      locationX: 1,
-      //      locationY: 0.5,
-      //      sprite: am5.Label.new(root, {
-      //        centerX: am5.p100,
-      //        centerY: am5.p50,
-      //        text: '{name}',
-      //        fill: am5.color(0xffffff),
-      //        populateText: true,
-      //        fontFamily: 'monospace',
-      //      }),
-      //    });
-      //  });
-
-      
-
+      createFakeSeries('fake', '');
       createSeries('stanziati', 'Stanziati');
       createSeries('spesi', 'Spesi');
 
