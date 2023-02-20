@@ -1,50 +1,6 @@
 import ReactEcharts from 'echarts-for-react';
 
-// const myData = [
-//   {
-//     name: 'Abilitazione cloud',
-//     value: 34,
-//     itemStyle: {
-//       color: '#5c6f82',
-//     },
-//   },
-//   {
-//     name: 'Adozione PagoPa e AppIo',
-//     value: 32,
-//     itemStyle: {
-//       color: '#BFDFFF',
-//     },
-//   },
-//   {
-//     name: 'Esperienza cittadino',
-//     value: 26,
-//     itemStyle: {
-//       color: '#207BD6',
-//     },
-//   },
-//   {
-//     name: 'Adozione identità digitale',
-//     value: 7,
-//     itemStyle: {
-//       color: '#004D99',
-//     },
-//     children: [
-//       {
-//         name: 'Adozione identità digitalo',
-//         value: 5,
-//       },
-//       {
-//         name: 'Esperienza cittadino',
-//         value: 2,
-//         itemStyle: {
-//           color: '#6AAAEB',
-//         },
-//       },
-//     ],
-//   },
-// ];
-
-const data = [
+const sampleData = [
   {
     name: 'Abilitazione cloud',
     value: 34,
@@ -70,55 +26,86 @@ const data = [
     ],
   },
 ];
-const options = {
-  color: ['#5c6f82', '#BFDFFF', '#207BD6', '#004D99', '#6AAAEB'],
-  textStyle: {
-    fontFamily: 'Roboto Mono',
-    fontWeight: 'normal',
-    fontSize: 12,
-  },
-  toolbox: {
-    show: true,
-    left: 'center',
-    top: 'top',
-    feature: {
-      dataView: {},
-      restore: {},
-      saveAsImage: {},
-    },
-  },
-  series: [
-    {
-      type: 'treemap',
-      roam: false,
-      label: {
-        show: true,
-        formatter: '{b}',
-        normal: {
-          textStyle: {
-            ellipsis: true,
+
+function App({ data }) {
+  function getLevelOption() {
+    return [
+      {
+        itemStyle: {
+          borderColor: '#777',
+          borderWidth: 0,
+          gapWidth: 1,
+        },
+        upperLabel: {
+          show: false,
+        },
+      },
+      {
+        itemStyle: {
+          borderColor: '#555',
+          borderWidth: 5,
+          gapWidth: 1,
+        },
+        emphasis: {
+          itemStyle: {
+            borderColor: '#ddd',
           },
         },
       },
-      visualMin: -100,
-      visualMax: 100,
-      visualDimension: 3,
-      data,
-    },
-  ],
-  legend: {
-    show: false,
-    left: 'auto',
-    top: 0,
-  },
-  tooltip: {},
-};
+      {
+        colorSaturation: [0.35, 0.5],
+        itemStyle: {
+          borderWidth: 5,
+          gapWidth: 1,
+          borderColorSaturation: 0.6,
+        },
+      },
+    ];
+  }
+  function options(data) {
+    return {
+      color: ['#5c6f82', '#BFDFFF', '#207BD6', '#004D99', '#6AAAEB'],
+      textStyle: {
+        fontWeight: 'normal',
+        fontSize: 12,
+      },
+      series: [
+        {
+          type: 'treemap',
+          // roam: false,
+          upperLabel: {
+            show: true,
+            height: 30,
+          },
+          itemStyle: {
+            borderColor: '#fff',
+          },
+          // levels: getLevelOption(),
 
-function App() {
+          // label: {
+          //   show: true,
+          //   // formatter: '  {b} ',
+          //   // normal: {
+          //   //   textStyle: {
+          //   //     ellipsis: true,
+          //   //   },
+          //   // },
+          // },
+          // visualMin: -100,
+          // visualMax: 100,
+          // visualDimension: 3,
+          data,
+        },
+      ],
+    };
+  }
+
+  if (!data || data.length === 0) return null;
+
   return (
     <ReactEcharts
-      option={options}
-      style={{ width: '100%', maxWidth: '900px', height: '500px' }}
+      option={options(data)}
+      style={{ width: '100%', height: '500px' }}
     />
   );
 }

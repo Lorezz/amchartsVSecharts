@@ -4,129 +4,33 @@ import * as am5hierarchy from '@amcharts/amcharts5/hierarchy';
 import am5themes_Animated from '@amcharts/amcharts5/themes/Animated';
 import * as am5plugins_exporting from '@amcharts/amcharts5/plugins/exporting';
 
-function App() {
+function App({ myData }) {
   const ref = useRef(null);
 
-  const myData = [
-    {
-      name: 'Abilitazione cloud',
-      value: 34,
-    },
-    {
-      name: 'Adozione PagoPa e AppIo',
-      value: 32,
-    },
-    {
-      name: 'Esperienza cittadino',
-      value: 26,
-    },
-    {
-      name: 'Adozione identità digitale',
-      value: 7,
-      children: [
-        {
-          name: 'Adozione identità digitale',
-          value: 5,
-        },
-        {
-          name: 'Esperienza cittadino',
-          value: 2,
-        },
-      ],
-    },
-  ];
-
-  // const data = [
+  // const myData = [
   //   {
-  //     name: 'First',
-  //     children: [
-  //       {
-  //         name: 'A1',
-  //         value: 100,
-  //       },
-  //       {
-  //         name: 'A2',
-  //         value: 60,
-  //       },
-  //       {
-  //         name: 'A3',
-  //         value: 30,
-  //       },
-  //     ],
+  //     name: 'Abilitazione cloud',
+  //     value: 34,
   //   },
   //   {
-  //     name: 'Second',
-  //     children: [
-  //       {
-  //         name: 'B1',
-  //         value: 135,
-  //       },
-  //       {
-  //         name: 'B2',
-  //         value: 98,
-  //       },
-  //       {
-  //         name: 'B3',
-  //         value: 56,
-  //       },
-  //     ],
+  //     name: 'Adozione PagoPa e AppIo',
+  //     value: 32,
   //   },
   //   {
-  //     name: 'Third',
-  //     children: [
-  //       {
-  //         name: 'C1',
-  //         value: 335,
-  //       },
-  //       {
-  //         name: 'C2',
-  //         value: 148,
-  //       },
-  //       {
-  //         name: 'C3',
-  //         value: 126,
-  //       },
-  //       {
-  //         name: 'C4',
-  //         value: 26,
-  //       },
-  //     ],
+  //     name: 'Esperienza cittadino',
+  //     value: 26,
   //   },
   //   {
-  //     name: 'Fourth',
+  //     name: 'Adozione identità digitale',
+  //     value: 7,
   //     children: [
   //       {
-  //         name: 'D1',
-  //         value: 415,
+  //         name: 'Adozione identità digitale',
+  //         value: 5,
   //       },
   //       {
-  //         name: 'D2',
-  //         value: 148,
-  //       },
-  //       {
-  //         name: 'D3',
-  //         value: 89,
-  //       },
-  //       {
-  //         name: 'D4',
-  //         value: 64,
-  //       },
-  //       {
-  //         name: 'D5',
-  //         value: 16,
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     name: 'Fifth',
-  //     children: [
-  //       {
-  //         name: 'E1',
-  //         value: 687,
-  //       },
-  //       {
-  //         name: 'E2',
-  //         value: 148,
+  //         name: 'Esperienza cittadino',
+  //         value: 2,
   //       },
   //     ],
   //   },
@@ -146,7 +50,6 @@ function App() {
     myTheme.rule('Label').setAll({
       fill: am5.color(0x111111),
       fontSize: '0.8em',
-      fontFamily: 'monospace',
     });
 
     // Set themes
@@ -222,7 +125,7 @@ function App() {
       <div
         id="chartdiv"
         ref={ref}
-        style={{ width: '100%', maxWidth: '900px', height: '500px' }}
+        style={{ width: '100%', height: '500px' }}
       ></div>
     </div>
   );

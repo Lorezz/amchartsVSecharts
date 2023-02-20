@@ -1,0 +1,2021 @@
+regione,provincia,comune,importo_finanziamento,COUNTA codice_ipa
+Abruzzo,AQ,Avezzano,27986,5
+Abruzzo,AQ,Balsorano,7301,1
+Abruzzo,AQ,Carsoli,15043,2
+Abruzzo,AQ,Castel di Sangro,10619,2
+Abruzzo,AQ,Celano,3318,1
+Abruzzo,AQ,L'Aquila,11725,3
+Abruzzo,AQ,Magliano de' Marsi,3318,1
+Abruzzo,AQ,Pescasseroli,10619,2
+Abruzzo,AQ,Pizzoli,11172,2
+Abruzzo,AQ,Pratola Peligna,7301,1
+Abruzzo,AQ,Roccaraso,8960,2
+Abruzzo,AQ,Sulmona,12831,2
+Abruzzo,CH,Atessa,2212,1
+Abruzzo,CH,Bucchianico,2765,1
+Abruzzo,CH,Castel Frentano,5530,1
+Abruzzo,CH,Chieti,29092,6
+Abruzzo,CH,Gissi,7189,1
+Abruzzo,CH,Guardiagrele,27762,3
+Abruzzo,CH,Lanciano,37387,6
+Abruzzo,CH,Ortona,21791,4
+Abruzzo,CH,Paglieta,16149,2
+Abruzzo,CH,Palena,2765,1
+Abruzzo,CH,Ripa Teatina,7301,1
+Abruzzo,CH,San Giovanni Teatino,20020,2
+Abruzzo,CH,San Salvo,40040,4
+Abruzzo,CH,San Vito Chietino,20020,2
+Abruzzo,CH,Scerni,20020,2
+Abruzzo,CH,Vasto,32851,5
+Abruzzo,CH,Villa Santa Maria,7301,1
+Abruzzo,PE,Alanno,8960,2
+Abruzzo,PE,Città Sant'Angelo,30086,4
+Abruzzo,PE,Collecorvino,16149,2
+Abruzzo,PE,Montesilvano,74221,11
+Abruzzo,PE,Penne,5530,2
+Abruzzo,PE,Pescara,134946,19
+Abruzzo,PE,Pianella,10066,2
+Abruzzo,PE,Rosciano,11172,2
+Abruzzo,PE,San Valentino in Abruzzo Citeriore,7301,1
+Abruzzo,PE,Spoltore,23891,3
+Abruzzo,PE,Torre de' Passeri,13937,2
+Abruzzo,TE,Atri,19026,3
+Abruzzo,TE,Campli,7301,1
+Abruzzo,TE,Castelli,20020,2
+Abruzzo,TE,Giulianova,52318,7
+Abruzzo,TE,Isola del Gran Sasso d'Italia,2212,1
+Abruzzo,TE,Martinsicuro,12166,1
+Abruzzo,TE,Montorio al Vomano,7301,1
+Abruzzo,TE,Nereto,7301,1
+Abruzzo,TE,Notaresco,16149,2
+Abruzzo,TE,Pineto,11725,2
+Abruzzo,TE,Roseto degli Abruzzi,59619,8
+Abruzzo,TE,Silvi,6636,1
+Abruzzo,TE,Teramo,94241,12
+Basilicata,MT,Bernalda,20020,2
+Basilicata,MT,Ferrandina,7301,1
+Basilicata,MT,Grassano,7301,1
+Basilicata,MT,Irsina,7301,1
+Basilicata,MT,Matera,77322,15
+Basilicata,MT,Montalbano Jonico,4977,2
+Basilicata,MT,Nova Siri,1659,1
+Basilicata,MT,Pisticci,17920,4
+Basilicata,MT,Policoro,18914,5
+Basilicata,MT,Scanzano Jonico,1659,1
+Basilicata,MT,Tricarico,7301,1
+Basilicata,MT,Tursi,8960,2
+Basilicata,MT,Valsinni,9513,2
+Basilicata,PZ,Atella,8960,2
+Basilicata,PZ,Avigliano,1659,1
+Basilicata,PZ,Baragiano,13937,2
+Basilicata,PZ,Barile,11172,2
+Basilicata,PZ,Bella,8960,2
+Basilicata,PZ,Genzano di Lucania,20020,2
+Basilicata,PZ,Lagonegro,18914,2
+Basilicata,PZ,Laurenzana,2765,1
+Basilicata,PZ,Lauria,10619,3
+Basilicata,PZ,Lavello,21238,4
+Basilicata,PZ,Maratea,7301,1
+Basilicata,PZ,Marsico Nuovo,18473,4
+Basilicata,PZ,Melfi,17920,4
+Basilicata,PZ,Moliterno,8960,2
+Basilicata,PZ,Muro Lucano,9513,2
+Basilicata,PZ,Oppido Lucano,2765,1
+Basilicata,PZ,Pietragalla,7301,1
+Basilicata,PZ,Potenza,80528,16
+Basilicata,PZ,Rionero in Vulture,19579,4
+Basilicata,PZ,Rotonda,3318,1
+Basilicata,PZ,Sant'Arcangelo,10066,2
+Basilicata,PZ,Tito,1659,1
+Basilicata,PZ,Tramutola,1659,1
+Basilicata,PZ,Venosa,19467,3
+Basilicata,PZ,Viggiano,1659,1
+Calabria,CS,Acri,52430,7
+Calabria,CS,Amantea,23226,2
+Calabria,CS,Belmonte Calabro,12166,1
+Calabria,CS,Belvedere Marittimo,20020,2
+Calabria,CS,Bisignano,13937,3
+Calabria,CS,Cariati,16702,2
+Calabria,CS,Casali del Manco,23226,2
+Calabria,CS,Cassano all'Ionio,20020,2
+Calabria,CS,Castrolibero,2765,1
+Calabria,CS,Castrovillari,37163,4
+Calabria,CS,Cerisano,11613,1
+Calabria,CS,Cetraro,7742,1
+Calabria,CS,Corigliano-Rossano,87493,12
+Calabria,CS,Cosenza,146776,17
+Calabria,CS,Cropalati,7301,1
+Calabria,CS,Crosia,8960,2
+Calabria,CS,Diamante,26215,3
+Calabria,CS,Francavilla Marittima,10507,1
+Calabria,CS,Guardia Piemontese,17808,2
+Calabria,CS,Lungro,12719,1
+Calabria,CS,Luzzi,2765,1
+Calabria,CS,Malvito,11060,1
+Calabria,CS,Mandatoriccio,18361,2
+Calabria,CS,Mangone,20020,2
+Calabria,CS,Mendicino,11613,1
+Calabria,CS,Montalto Uffugo,10066,2
+Calabria,CS,Morano Calabro,7301,1
+Calabria,CS,Mormanno,1659,1
+Calabria,CS,Paola,41034,4
+Calabria,CS,Praia a Mare,21679,3
+Calabria,CS,Rende,77427,11
+Calabria,CS,Rogliano,18914,2
+Calabria,CS,San Giovanni in Fiore,42805,5
+Calabria,CS,San Lucido,9954,1
+Calabria,CS,San Marco Argentano,36722,4
+Calabria,CS,Santa Maria del Cedro,20020,2
+Calabria,CS,Scalea,18361,2
+Calabria,CS,Scigliano,20020,2
+Calabria,CS,Spezzano Albanese,36169,4
+Calabria,CS,Spezzano della Sila,12719,1
+Calabria,CS,Terranova da Sibari,1659,1
+Calabria,CS,Trebisacce,47341,5
+Calabria,CZ,Badolato,13384,2
+Calabria,CZ,Botricello,11725,2
+Calabria,CZ,Catanzaro,91805,10
+Calabria,CZ,Chiaravalle Centrale,38934,4
+Calabria,CZ,Cropani,20020,2
+Calabria,CZ,Curinga,20020,2
+Calabria,CZ,Lamezia Terme,151977,17
+Calabria,CZ,Maida,20020,2
+Calabria,CZ,Marcellinara,20020,2
+Calabria,CZ,Martirano,19467,2
+Calabria,CZ,Petronà,7301,1
+Calabria,CZ,Serrastretta,19467,2
+Calabria,CZ,Sersale,31080,3
+Calabria,CZ,Soverato,32410,4
+Calabria,CZ,Soveria Mannelli,20020,2
+Calabria,CZ,Taverna,10507,1
+Calabria,CZ,Tiriolo,10066,2
+Calabria,KR,Caccuri,7301,1
+Calabria,KR,Cirò,10066,2
+Calabria,KR,Cirò Marina,11725,2
+Calabria,KR,Cotronei,10619,2
+Calabria,KR,Crotone,83734,13
+Calabria,KR,Crucoli,20020,2
+Calabria,KR,Cutro,17367,3
+Calabria,KR,Isola di Capo Rizzuto,20132,3
+Calabria,KR,Melissa,9513,2
+Calabria,KR,Petilia Policastro,49000,6
+Calabria,KR,Rocca di Neto,13384,2
+Calabria,KR,Scandale,10066,2
+Calabria,KR,Strongoli,19467,2
+Calabria,RC,Ardore,17808,2
+Calabria,RC,Bianco,17808,2
+Calabria,RC,Bova Marina,18914,2
+Calabria,RC,Bovalino,34510,4
+Calabria,RC,Campo Calabro,20020,2
+Calabria,RC,Caulonia,17808,2
+Calabria,RC,Cittanova,39487,4
+Calabria,RC,Locri,39487,4
+Calabria,RC,Marina di Gioiosa Ionica,33957,4
+Calabria,RC,Melicucco,14490,2
+Calabria,RC,Monasterace,18361,2
+Calabria,RC,Oppido Mamertina,18914,2
+Calabria,RC,Palmi,37275,4
+Calabria,RC,Platì,17808,2
+Calabria,RC,Polistena,60060,6
+Calabria,RC,Reggio di Calabria,150318,17
+Calabria,RC,Rosarno,37828,4
+Calabria,RC,San Luca,13384,2
+Calabria,RC,Sant'Eufemia d'Aspromonte,19467,2
+Calabria,RC,Siderno,34510,4
+Calabria,RC,Villa San Giovanni,7301,1
+Calabria,VV,Cessaniti,2212,1
+Calabria,VV,Filadelfia,10507,1
+Calabria,VV,Mileto,20020,2
+Calabria,VV,Nicotera,14931,2
+Calabria,VV,Rombiolo,2212,1
+Calabria,VV,Sant'Onofrio,8848,1
+Calabria,VV,Serra San Bruno,20020,2
+Calabria,VV,Tropea,12166,1
+Calabria,VV,Vallelonga,18914,2
+Calabria,VV,Vibo Valentia,57736,9
+Campania,AV,Aiello del Sabato,11725,2
+Campania,AV,Altavilla Irpina,20020,2
+Campania,AV,Ariano Irpino,32963,5
+Campania,AV,Avella,7301,1
+Campania,AV,Avellino,132958,20
+Campania,AV,Baiano,7301,1
+Campania,AV,Fontanarosa,9513,2
+Campania,AV,Forino,11725,2
+Campania,AV,Grottaminarda,22232,3
+Campania,AV,Lauro,16149,2
+Campania,AV,Lioni,10619,2
+Campania,AV,Manocalzati,10066,2
+Campania,AV,Mirabella Eclano,11172,2
+Campania,AV,Monteforte Irpino,7301,1
+Campania,AV,Montella,14490,3
+Campania,AV,Montemiletto,11172,2
+Campania,AV,Montoro,18473,3
+Campania,AV,Mugnano del Cardinale,19467,2
+Campania,AV,Pago del Vallo di Lauro,12278,2
+Campania,AV,San Martino Valle Caudina,2212,1
+Campania,AV,Solofra,11060,1
+Campania,AV,Vallata,19579,4
+Campania,AV,Volturara Irpina,11725,2
+Campania,BN,Airola,56742,6
+Campania,BN,Amorosi,18361,2
+Campania,BN,Apice,7301,1
+Campania,BN,Benevento,118132,15
+Campania,BN,Cerreto Sannita,36169,4
+Campania,BN,Colle Sannita,7301,1
+Campania,BN,Cusano Mutri,17808,2
+Campania,BN,Faicchio,20020,2
+Campania,BN,Guardia Sanframondi,7301,1
+Campania,BN,Limatola,7301,1
+Campania,BN,Moiano,20020,2
+Campania,BN,Montesarchio,15596,2
+Campania,BN,Morcone,27321,3
+Campania,BN,Pietrelcina,18914,2
+Campania,BN,Ponte,15596,2
+Campania,BN,Pontelandolfo,7301,1
+Campania,BN,San Bartolomeo in Galdo,38934,4
+Campania,BN,San Giorgio La Molara,20020,2
+Campania,BN,San Marco dei Cavoti,7301,1
+Campania,BN,San Salvatore Telesino,10507,1
+Campania,BN,Sant'Agata de' Goti,18361,2
+Campania,BN,Sant'Angelo a Cupolo,18914,2
+Campania,BN,Telese Terme,17255,2
+Campania,BN,Tocco Caudio,7301,1
+Campania,CE,Alife,17255,2
+Campania,CE,Alvignano,20020,2
+Campania,CE,Arienzo,10507,1
+Campania,CE,Aversa,92582,12
+Campania,CE,Bellona,3318,1
+Campania,CE,Caiazzo,7301,1
+Campania,CE,Calvi Risorta,20020,2
+Campania,CE,Capriati a Volturno,17808,2
+Campania,CE,Capua,37940,6
+Campania,CE,Carinaro,7301,1
+Campania,CE,Carinola,20020,2
+Campania,CE,Casagiove,18361,2
+Campania,CE,Casal di Principe,31304,5
+Campania,CE,Casaluce,18361,2
+Campania,CE,Caserta,146006,18
+Campania,CE,Castel Volturno,32298,4
+Campania,CE,Cellole,18361,2
+Campania,CE,Cervino,7301,1
+Campania,CE,Formicola,17255,2
+Campania,CE,Francolise,7301,1
+Campania,CE,Frignano,4424,1
+Campania,CE,Gioia Sannitica,18361,2
+Campania,CE,Grazzanise,10619,2
+Campania,CE,Gricignano di Aversa,7301,1
+Campania,CE,Lusciano,20020,2
+Campania,CE,Macerata Campania,18361,2
+Campania,CE,Maddaloni,100765,12
+Campania,CE,Marcianise,83069,13
+Campania,CE,Mignano Monte Lungo,18361,2
+Campania,CE,Mondragone,47341,6
+Campania,CE,Orta di Atella,20020,2
+Campania,CE,Piedimonte Matese,90699,10
+Campania,CE,Pignataro Maggiore,7301,1
+Campania,CE,Portico di Caserta,7301,1
+Campania,CE,Raviscanina,11613,1
+Campania,CE,Recale,10619,2
+Campania,CE,Roccamonfina,18914,2
+Campania,CE,San Cipriano d'Aversa,10619,2
+Campania,CE,San Felice a Cancello,18361,2
+Campania,CE,San Marcellino,20020,2
+Campania,CE,San Marco Evangelista,17808,2
+Campania,CE,San Nicola la Strada,25662,3
+Campania,CE,Sant'Arpino,8960,2
+Campania,CE,Santa Maria a Vico,10619,2
+Campania,CE,Santa Maria Capua Vetere,30198,5
+Campania,CE,Sessa Aurunca,60284,10
+Campania,CE,Sparanise,16702,2
+Campania,CE,Teano,22785,3
+Campania,CE,Teverola,17808,2
+Campania,CE,Trentola Ducenta,7301,1
+Campania,CE,Vairano Patenora,36722,4
+Campania,NA,Acerra,42805,5
+Campania,NA,Afragola,49777,8
+Campania,NA,Anacapri,21238,3
+Campania,NA,Arzano,40817,7
+Campania,NA,Bacoli,14602,2
+Campania,NA,Barano d'Ischia,17255,2
+Campania,NA,Boscoreale,44576,6
+Campania,NA,Boscotrecase,17255,2
+Campania,NA,Brusciano,20020,2
+Campania,NA,Caivano,57519,9
+Campania,NA,Calvizzano,7301,1
+Campania,NA,Cardito,11725,2
+Campania,NA,Casalnuovo di Napoli,30198,5
+Campania,NA,Casamicciola Terme,24556,4
+Campania,NA,Casandrino,7301,1
+Campania,NA,Casavatore,32851,4
+Campania,NA,Casola di Napoli,17808,2
+Campania,NA,Casoria,104860,15
+Campania,NA,Castellammare di Stabia,127309,14
+Campania,NA,Cercola,12831,2
+Campania,NA,Cicciano,8960,2
+Campania,NA,Cimitile,7301,1
+Campania,NA,Crispano,6636,1
+Campania,NA,Ercolano,24556,4
+Campania,NA,Forio,7301,1
+Campania,NA,Frattamaggiore,22344,4
+Campania,NA,Frattaminore,24003,3
+Campania,NA,Giugliano in Campania,113708,17
+Campania,NA,Gragnano,34510,6
+Campania,NA,Grumo Nevano,16149,3
+Campania,NA,Ischia,19579,3
+Campania,NA,Lettere,7301,1
+Campania,NA,Marano di Napoli,64267,10
+Campania,NA,Marigliano,43911,5
+Campania,NA,Massa Lubrense,7301,1
+Campania,NA,Melito di Napoli,27986,5
+Campania,NA,Meta,20020,2
+Campania,NA,Napoli,1008357,148
+Campania,NA,Nola,96894,13
+Campania,NA,Ottaviano,41923,7
+Campania,NA,Piano di Sorrento,18914,2
+Campania,NA,Poggiomarino,11725,2
+Campania,NA,Pollena Trocchia,11725,2
+Campania,NA,Pomigliano d'Arco,108178,14
+Campania,NA,Pompei,22673,2
+Campania,NA,Portici,73668,11
+Campania,NA,Pozzuoli,136388,21
+Campania,NA,Procida,7301,1
+Campania,NA,Qualiano,14602,2
+Campania,NA,Quarto,38493,6
+Campania,NA,San Gennaro Vesuviano,20020,2
+Campania,NA,San Giorgio a Cremano,27433,4
+Campania,NA,San Giuseppe Vesuviano,20020,2
+Campania,NA,San Sebastiano al Vesuvio,14602,2
+Campania,NA,Sant'Agnello,9513,2
+Campania,NA,Sant'Anastasia,20020,2
+Campania,NA,Sant'Antimo,47677,7
+Campania,NA,Sant'Antonio Abate,12831,2
+Campania,NA,Santa Maria la Carità,29974,3
+Campania,NA,Somma Vesuviana,16590,3
+Campania,NA,Sorrento,25550,3
+Campania,NA,Striano,17920,3
+Campania,NA,Torre Annunziata,68026,9
+Campania,NA,Torre del Greco,102648,15
+Campania,NA,Trecase,20020,2
+Campania,NA,Vico Equense,19026,3
+Campania,NA,Villaricca,22897,3
+Campania,NA,Volla,33957,4
+Campania,SA,Agropoli,38381,6
+Campania,SA,Angri,26768,4
+Campania,SA,Ascea,20020,2
+Campania,SA,Baronissi,15043,3
+Campania,SA,Battipaglia,38052,7
+Campania,SA,Bellizzi,7301,1
+Campania,SA,Bracigliano,11725,2
+Campania,SA,Buccino,10066,2
+Campania,SA,Camerota,18361,2
+Campania,SA,Campagna,32963,4
+Campania,SA,Capaccio Paestum,18473,3
+Campania,SA,Casal Velino,15596,2
+Campania,SA,Castel San Giorgio,8960,2
+Campania,SA,Castellabate,17255,2
+Campania,SA,Castelnuovo Cilento,7301,1
+Campania,SA,Cava de' Tirreni,114261,16
+Campania,SA,Colliano,9513,2
+Campania,SA,Contursi Terme,12278,2
+Campania,SA,Eboli,86940,12
+Campania,SA,Fisciano,8960,2
+Campania,SA,Futani,20020,2
+Campania,SA,Giffoni Valle Piana,12719,1
+Campania,SA,Gioi,20020,2
+Campania,SA,Mercato San Severino,23891,4
+Campania,SA,Montecorvino Rovella,26768,3
+Campania,SA,Montesano sulla Marcellana,13937,2
+Campania,SA,Nocera Inferiore,61943,10
+Campania,SA,Nocera Superiore,3318,1
+Campania,SA,Ogliastro Cilento,18914,2
+Campania,SA,Olevano sul Tusciano,11172,2
+Campania,SA,Oliveto Citra,19467,2
+Campania,SA,Omignano,7742,1
+Campania,SA,Padula,19467,2
+Campania,SA,Pagani,48335,7
+Campania,SA,Pellezzano,13937,2
+Campania,SA,Piaggine,7301,1
+Campania,SA,Polla,16702,2
+Campania,SA,Roccadaspide,20020,2
+Campania,SA,Roccapiemonte,22897,4
+Campania,SA,Rofrano,20020,2
+Campania,SA,Sala Consilina,23562,4
+Campania,SA,Salerno,227528,36
+Campania,SA,Sant'Arsenio,19026,3
+Campania,SA,Sant'Egidio del Monte Albino,18914,2
+Campania,SA,Sapri,7301,1
+Campania,SA,Sarno,55083,6
+Campania,SA,Sassano,19467,2
+Campania,SA,Scafati,46900,9
+Campania,SA,Serre,11725,2
+Campania,SA,Teggiano,27321,4
+Campania,SA,Tramonti,10066,2
+Campania,SA,Vallo della Lucania,23450,3
+Campania,SA,Vietri sul Mare,7301,1
+Emilia-Romagna,BO,Alto Reno Terme,14602,2
+Emilia-Romagna,BO,Argelato,8960,2
+Emilia-Romagna,BO,Bologna,159285,26
+Emilia-Romagna,BO,Borgo Tossignano,10619,2
+Emilia-Romagna,BO,Budrio,20132,3
+Emilia-Romagna,BO,Calderara di Reno,2212,1
+Emilia-Romagna,BO,Casalecchio di Reno,28539,5
+Emilia-Romagna,BO,Castel di Casio,7301,1
+Emilia-Romagna,BO,Castel Maggiore,7301,1
+Emilia-Romagna,BO,Castel San Pietro Terme,11172,2
+Emilia-Romagna,BO,Castiglione dei Pepoli,37828,4
+Emilia-Romagna,BO,Crevalcore,10619,2
+Emilia-Romagna,BO,Dozza,10066,2
+Emilia-Romagna,BO,Gaggio Montano,20020,2
+Emilia-Romagna,BO,Imola,81081,13
+Emilia-Romagna,BO,Malalbergo,7301,1
+Emilia-Romagna,BO,Minerbio,7301,1
+Emilia-Romagna,BO,Molinella,3318,1
+Emilia-Romagna,BO,Monghidoro,7301,1
+Emilia-Romagna,BO,Monterenzio,7301,1
+Emilia-Romagna,BO,Ozzano dell'Emilia,7301,1
+Emilia-Romagna,BO,Pianoro,7301,1
+Emilia-Romagna,BO,Pieve di Cento,7301,1
+Emilia-Romagna,BO,San Giorgio di Piano,8960,2
+Emilia-Romagna,BO,San Giovanni in Persiceto,3318,1
+Emilia-Romagna,BO,San Lazzaro di Savena,43911,5
+Emilia-Romagna,BO,San Pietro in Casale,15043,2
+Emilia-Romagna,BO,Sant'Agata Bolognese,7301,1
+Emilia-Romagna,BO,Sasso Marconi,16814,3
+Emilia-Romagna,BO,Valsamoggia,7301,1
+Emilia-Romagna,BO,Vergato,24003,3
+Emilia-Romagna,BO,Zola Predosa,12278,2
+Emilia-Romagna,FC,Bagno di Romagna,12278,2
+Emilia-Romagna,FC,Bertinoro,7301,1
+Emilia-Romagna,FC,Cesena,54530,9
+Emilia-Romagna,FC,Cesenatico,17920,4
+Emilia-Romagna,FC,Civitella di Romagna,13937,2
+Emilia-Romagna,FC,Forlì,160608,23
+Emilia-Romagna,FC,Forlimpopoli,16814,3
+Emilia-Romagna,FC,Gambettola,7301,1
+Emilia-Romagna,FC,Meldola,6083,1
+Emilia-Romagna,FC,Predappio,13384,2
+Emilia-Romagna,FC,San Mauro Pascoli,17808,2
+Emilia-Romagna,FC,Santa Sofia,16702,2
+Emilia-Romagna,FC,Savignano sul Rubicone,28427,4
+Emilia-Romagna,FC,Sogliano al Rubicone,11725,2
+Emilia-Romagna,FE,Argenta,14602,2
+Emilia-Romagna,FE,Cento,24115,4
+Emilia-Romagna,FE,Codigoro,11172,2
+Emilia-Romagna,FE,Comacchio,19579,3
+Emilia-Romagna,FE,Ferrara,39158,6
+Emilia-Romagna,FE,Mesola,11172,2
+Emilia-Romagna,FE,Ostellato,7301,1
+Emilia-Romagna,FE,Poggio Renatico,7301,1
+Emilia-Romagna,FE,Terre del Reno,7301,1
+Emilia-Romagna,MO,Carpi,40264,5
+Emilia-Romagna,MO,Castelfranco Emilia,34622,4
+Emilia-Romagna,MO,Castelvetro di Modena,7301,1
+Emilia-Romagna,MO,Concordia sulla Secchia,7301,1
+Emilia-Romagna,MO,Finale Emilia,9513,2
+Emilia-Romagna,MO,Fiorano Modenese,10066,2
+Emilia-Romagna,MO,Formigine,6636,1
+Emilia-Romagna,MO,Lama Mocogno,10619,2
+Emilia-Romagna,MO,Maranello,12831,2
+Emilia-Romagna,MO,Mirandola,16149,3
+Emilia-Romagna,MO,Modena,74109,10
+Emilia-Romagna,MO,Montefiorino,7301,1
+Emilia-Romagna,MO,Pavullo nel Frignano,16261,3
+Emilia-Romagna,MO,Pievepelago,7301,1
+Emilia-Romagna,MO,Sassuolo,12831,2
+Emilia-Romagna,MO,Savignano sul Panaro,10619,2
+Emilia-Romagna,MO,Spilamberto,7301,1
+Emilia-Romagna,MO,Zocca,7301,1
+Emilia-Romagna,PC,Borgonovo Val Tidone,13937,2
+Emilia-Romagna,PC,Castel San Giovanni,7301,1
+Emilia-Romagna,PC,Castell'Arquato,9513,2
+Emilia-Romagna,PC,Fiorenzuola d'Arda,28980,4
+Emilia-Romagna,PC,Lugagnano Val d'Arda,10066,2
+Emilia-Romagna,PC,Piacenza,51877,7
+Emilia-Romagna,PC,Pianello Val Tidone,7301,1
+Emilia-Romagna,PC,Podenzano,7301,1
+Emilia-Romagna,PC,Ponte dell'Olio,10066,2
+Emilia-Romagna,PC,Rivergaro,7301,1
+Emilia-Romagna,PR,Borgo Val di Taro,25109,3
+Emilia-Romagna,PR,Collecchio,10066,2
+Emilia-Romagna,PR,Fidenza,19467,2
+Emilia-Romagna,PR,Fontanellato,7301,1
+Emilia-Romagna,PR,Fornovo di Taro,7301,1
+Emilia-Romagna,PR,Montechiarugolo,9513,2
+Emilia-Romagna,PR,Parma,118468,17
+Emilia-Romagna,PR,Salsomaggiore Terme,7301,1
+Emilia-Romagna,PR,Sissa Trecasali,3318,1
+Emilia-Romagna,PR,Torrile,16149,2
+Emilia-Romagna,RA,Brisighella,7301,1
+Emilia-Romagna,RA,Cervia,11725,2
+Emilia-Romagna,RA,Cotignola,3318,1
+Emilia-Romagna,RA,Faenza,29092,5
+Emilia-Romagna,RA,Lugo,13937,3
+Emilia-Romagna,RA,Massa Lombarda,11172,2
+Emilia-Romagna,RA,Ravenna,85281,16
+Emilia-Romagna,RA,Riolo Terme,20020,2
+Emilia-Romagna,RE,Albinea,7301,1
+Emilia-Romagna,RE,Bagnolo in Piano,7301,1
+Emilia-Romagna,RE,Cadelbosco di Sopra,7301,1
+Emilia-Romagna,RE,Casalgrande,9513,2
+Emilia-Romagna,RE,Castellarano,7301,1
+Emilia-Romagna,RE,Castelnovo ne' Monti,8960,2
+Emilia-Romagna,RE,Correggio,34069,6
+Emilia-Romagna,RE,Fabbrico,7301,1
+Emilia-Romagna,RE,Gualtieri,10066,2
+Emilia-Romagna,RE,Guastalla,12831,3
+Emilia-Romagna,RE,Novellara,9513,2
+Emilia-Romagna,RE,Poviglio,11725,2
+Emilia-Romagna,RE,Reggio nell'Emilia,128534,20
+Emilia-Romagna,RE,Reggiolo,7301,1
+Emilia-Romagna,RE,Rubiera,7301,1
+Emilia-Romagna,RE,San Martino in Rio,7301,1
+Emilia-Romagna,RE,Sant'Ilario d'Enza,7301,1
+Emilia-Romagna,RE,Scandiano,36834,6
+Emilia-Romagna,RE,Toano,16702,2
+Emilia-Romagna,RE,Villa Minozzo,10066,2
+Emilia-Romagna,RN,Coriano,10066,2
+Emilia-Romagna,RN,Misano Adriatico,3871,1
+Emilia-Romagna,RN,Morciano di Romagna,8960,2
+Emilia-Romagna,RN,Novafeltria,16037,2
+Emilia-Romagna,RN,Pennabilli,1659,1
+Emilia-Romagna,RN,Riccione,20020,2
+Emilia-Romagna,RN,Rimini,32186,7
+Emilia-Romagna,RN,San Giovanni in Marignano,10066,2
+Emilia-Romagna,RN,Santarcangelo di Romagna,22785,4
+Friuli-Venezia Giulia,GO,Doberdò del Lago,7301,1
+Friuli-Venezia Giulia,GO,Fogliano Redipuglia,10619,2
+Friuli-Venezia Giulia,GO,Gorizia,65485,10
+Friuli-Venezia Giulia,GO,Gradisca d'Isonzo,27321,3
+Friuli-Venezia Giulia,GO,Grado,7301,1
+Friuli-Venezia Giulia,GO,Monfalcone,17367,3
+Friuli-Venezia Giulia,GO,Ronchi dei Legionari,14490,2
+Friuli-Venezia Giulia,GO,San Canzian d'Isonzo,7301,1
+Friuli-Venezia Giulia,PN,Aviano,7301,1
+Friuli-Venezia Giulia,PN,Azzano Decimo,9954,1
+Friuli-Venezia Giulia,PN,Brugnera,2765,1
+Friuli-Venezia Giulia,PN,Caneva,12831,2
+Friuli-Venezia Giulia,PN,Chions,7301,1
+Friuli-Venezia Giulia,PN,Cordenons,5530,1
+Friuli-Venezia Giulia,PN,Cordovado,7301,1
+Friuli-Venezia Giulia,PN,Fontanafredda,13384,2
+Friuli-Venezia Giulia,PN,Maniago,27321,3
+Friuli-Venezia Giulia,PN,Montereale Valcellina,7301,1
+Friuli-Venezia Giulia,PN,Pordenone,45906,8
+Friuli-Venezia Giulia,PN,Roveredo in Piano,13384,2
+Friuli-Venezia Giulia,PN,Sacile,17367,3
+Friuli-Venezia Giulia,PN,San Vito al Tagliamento,22344,3
+Friuli-Venezia Giulia,PN,Travesio,13384,2
+Friuli-Venezia Giulia,PN,Valvasone Arzene,19467,2
+Friuli-Venezia Giulia,TS,Duino Aurisina,10619,2
+Friuli-Venezia Giulia,TS,Muggia,7301,1
+Friuli-Venezia Giulia,TS,Trieste,68915,10
+Friuli-Venezia Giulia,UD,Aiello del Friuli,20020,2
+Friuli-Venezia Giulia,UD,Ampezzo,16149,2
+Friuli-Venezia Giulia,UD,Buja,9513,2
+Friuli-Venezia Giulia,UD,Cervignano del Friuli,12278,2
+Friuli-Venezia Giulia,UD,Cividale del Friuli,16261,3
+Friuli-Venezia Giulia,UD,Codroipo,10619,2
+Friuli-Venezia Giulia,UD,Fagagna,7301,1
+Friuli-Venezia Giulia,UD,Fiumicello Villa Vicentina,15596,2
+Friuli-Venezia Giulia,UD,Gemona del Friuli,39487,4
+Friuli-Venezia Giulia,UD,Gonars,11725,2
+Friuli-Venezia Giulia,UD,Lestizza,8960,2
+Friuli-Venezia Giulia,UD,Lignano Sabbiadoro,7301,1
+Friuli-Venezia Giulia,UD,Majano,7301,1
+Friuli-Venezia Giulia,UD,Mortegliano,10619,2
+Friuli-Venezia Giulia,UD,Ovaro,7301,1
+Friuli-Venezia Giulia,UD,Pagnacco,7301,1
+Friuli-Venezia Giulia,UD,Pasian di Prato,9513,2
+Friuli-Venezia Giulia,UD,Pozzuolo del Friuli,7301,1
+Friuli-Venezia Giulia,UD,Rivignano Teor,16149,2
+Friuli-Venezia Giulia,UD,San Daniele del Friuli,10619,2
+Friuli-Venezia Giulia,UD,San Pietro al Natisone,7301,1
+Friuli-Venezia Giulia,UD,Sedegliano,9513,2
+Friuli-Venezia Giulia,UD,Tarcento,7301,1
+Friuli-Venezia Giulia,UD,Tarvisio,7301,1
+Friuli-Venezia Giulia,UD,Tavagnacco,11725,2
+Friuli-Venezia Giulia,UD,Tricesimo,7301,1
+Friuli-Venezia Giulia,UD,Udine,69356,11
+Lazio,FR,Alatri,39599,6
+Lazio,FR,Alvito,15596,2
+Lazio,FR,Amaseno,16702,2
+Lazio,FR,Anagni,31192,4
+Lazio,FR,Arce,7301,1
+Lazio,FR,Arpino,16149,2
+Lazio,FR,Boville Ernica,11725,2
+Lazio,FR,Cassino,114590,13
+Lazio,FR,Castro dei Volsci,11172,2
+Lazio,FR,Ceccano,27321,3
+Lazio,FR,Ceprano,10619,2
+Lazio,FR,Esperia,20020,2
+Lazio,FR,Ferentino,23891,3
+Lazio,FR,Fiuggi,16149,2
+Lazio,FR,Frosinone,46788,6
+Lazio,FR,Guarcino,20020,2
+Lazio,FR,Isola del Liri,13384,2
+Lazio,FR,Monte San Giovanni Campano,19026,3
+Lazio,FR,Paliano,18361,2
+Lazio,FR,Piglio,7301,1
+Lazio,FR,Pontecorvo,43470,6
+Lazio,FR,San Giorgio a Liri,20020,2
+Lazio,FR,Sant'Elia Fiumerapido,18361,2
+Lazio,FR,Serrone,20020,2
+Lazio,FR,Sora,95788,12
+Lazio,FR,Veroli,9513,2
+Lazio,LT,Aprilia,49665,6
+Lazio,LT,Castelforte,10507,1
+Lazio,LT,Cisterna di Latina,37387,5
+Lazio,LT,Fondi,102977,11
+Lazio,LT,Formia,108619,13
+Lazio,LT,Gaeta,56189,6
+Lazio,LT,Latina,234381,26
+Lazio,LT,Minturno,7301,1
+Lazio,LT,Monte San Biagio,7301,1
+Lazio,LT,Pontinia,17808,2
+Lazio,LT,Ponza,16702,2
+Lazio,LT,Priverno,33404,4
+Lazio,LT,Roccagorga,7301,1
+Lazio,LT,Sabaudia,18361,2
+Lazio,LT,San Felice Circeo,11725,2
+Lazio,LT,Santi Cosma e Damiano,11172,2
+Lazio,LT,Sermoneta,8960,2
+Lazio,LT,Sezze,28315,3
+Lazio,LT,Sonnino,7301,1
+Lazio,LT,Terracina,101871,12
+Lazio,RI,Fara in Sabina,10619,3
+Lazio,RI,Magliano Sabina,2765,1
+Lazio,RI,Poggio Mirteto,2765,1
+Lazio,RI,Poggio Moiano,1659,1
+Lazio,RI,Rieti,42805,8
+Lazio,RI,Torricella in Sabina,10619,2
+Lazio,RM,Albano Laziale,41811,5
+Lazio,RM,Anguillara Sabazia,9401,1
+Lazio,RM,Anzio,122332,14
+Lazio,RM,Ardea,15043,2
+Lazio,RM,Ariccia,33404,4
+Lazio,RM,Artena,16702,2
+Lazio,RM,Bracciano,23450,3
+Lazio,RM,Campagnano di Roma,15043,2
+Lazio,RM,Capena,13384,2
+Lazio,RM,Carpineto Romano,17255,2
+Lazio,RM,Castel Madama,20020,2
+Lazio,RM,Cave,20020,2
+Lazio,RM,Cerveteri,40481,4
+Lazio,RM,Ciampino,38822,4
+Lazio,RM,Civitavecchia,110054,13
+Lazio,RM,Civitella San Paolo,18914,2
+Lazio,RM,Colleferro,71232,8
+Lazio,RM,Fiumicino,76762,10
+Lazio,RM,Fonte Nuova,18914,2
+Lazio,RM,Frascati,32851,4
+Lazio,RM,Genazzano,9401,1
+Lazio,RM,Genzano di Roma,26103,3
+Lazio,RM,Grottaferrata,24556,3
+Lazio,RM,Guidonia Montecelio,33516,5
+Lazio,RM,Labico,20020,2
+Lazio,RM,Ladispoli,66696,8
+Lazio,RM,Lanuvio,7301,1
+Lazio,RM,Manziana,11613,1
+Lazio,RM,Marino,35616,4
+Lazio,RM,Mentana,24003,3
+Lazio,RM,Monte Compatri,7301,1
+Lazio,RM,Monte Porzio Catone,12719,1
+Lazio,RM,Monterotondo,67914,8
+Lazio,RM,Morlupo,9954,1
+Lazio,RM,Nettuno,65149,8
+Lazio,RM,Palestrina,85169,10
+Lazio,RM,Palombara Sabina,19467,2
+Lazio,RM,Pomezia,165802,19
+Lazio,RM,Riano,20020,2
+Lazio,RM,Rignano Flaminio,11060,1
+Lazio,RM,Rocca di Papa,19467,2
+Lazio,RM,Rocca Priora,17255,2
+Lazio,RM,Roma,2567677,308
+Lazio,RM,Sacrofano,15043,2
+Lazio,RM,Santa Marinella,7301,1
+Lazio,RM,Segni,7301,1
+Lazio,RM,Tivoli,87493,11
+Lazio,RM,Trevignano Romano,17255,2
+Lazio,RM,Valmontone,17255,2
+Lazio,RM,Velletri,95788,11
+Lazio,RM,Zagarolo,19467,2
+Lazio,VT,Acquapendente,9513,2
+Lazio,VT,Bagnoregio,11725,2
+Lazio,VT,Bassano Romano,3871,1
+Lazio,VT,Capranica,2765,1
+Lazio,VT,Caprarola,4977,1
+Lazio,VT,Civita Castellana,9401,2
+Lazio,VT,Fabrica di Roma,3871,1
+Lazio,VT,Montefiascone,11725,3
+Lazio,VT,Ronciglione,5530,2
+Lazio,VT,Soriano nel Cimino,14490,2
+Lazio,VT,Sutri,17808,2
+Lazio,VT,Tarquinia,20685,4
+Lazio,VT,Tuscania,11725,2
+Lazio,VT,Valentano,1659,1
+Lazio,VT,Vetralla,17367,3
+Lazio,VT,Vignanello,2765,1
+Lazio,VT,Viterbo,77539,16
+Liguria,GE,Arenzano,17808,2
+Liguria,GE,Carasco,11725,2
+Liguria,GE,Casarza Ligure,11725,2
+Liguria,GE,Casella,7301,1
+Liguria,GE,Chiavari,13937,3
+Liguria,GE,Genova,415233,57
+Liguria,GE,Masone,10066,2
+Liguria,GE,Rapallo,23450,4
+Liguria,GE,Ronco Scrivia,7301,1
+Liguria,GE,Santa Margherita Ligure,7301,1
+Liguria,GE,Serra Riccò,10619,2
+Liguria,GE,Sestri Levante,7301,1
+Liguria,IM,Camporosso,13384,2
+Liguria,IM,Imperia,38605,7
+Liguria,IM,Pieve di Teco,20020,2
+Liguria,IM,Riva Ligure,11172,2
+Liguria,IM,Sanremo,41258,6
+Liguria,IM,Taggia,42364,6
+Liguria,IM,Vallecrosia,2212,1
+Liguria,IM,Ventimiglia,16149,3
+Liguria,SP,La Spezia,45682,7
+Liguria,SP,Luni,20020,2
+Liguria,SP,Santo Stefano di Magra,7301,1
+Liguria,SP,Sarzana,7301,1
+Liguria,SV,Cairo Montenotte,14602,2
+Liguria,SV,Finale Ligure,16814,3
+Liguria,SV,Millesimo,10066,2
+Liguria,SV,Pietra Ligure,7301,1
+Liguria,SV,Quiliano,7301,1
+Liguria,SV,Sassello,7301,1
+Liguria,SV,Savona,48559,9
+Liguria,SV,Varazze,10066,2
+Lombardia,BG,Albino,18473,3
+Lombardia,BG,Almenno San Bartolomeo,10066,2
+Lombardia,BG,Arcene,15596,2
+Lombardia,BG,Bergamo,182399,26
+Lombardia,BG,Brembate di Sopra,7301,1
+Lombardia,BG,Calcinate,7301,1
+Lombardia,BG,Calcio,12831,2
+Lombardia,BG,Carvico,9513,2
+Lombardia,BG,Casazza,11172,2
+Lombardia,BG,Casirate d'Adda,11725,2
+Lombardia,BG,Castelli Calepio,13384,2
+Lombardia,BG,Chiuduno,7301,1
+Lombardia,BG,Cisano Bergamasco,9513,2
+Lombardia,BG,Clusone,7301,1
+Lombardia,BG,Cologno al Serio,20020,2
+Lombardia,BG,Costa Volpino,7301,1
+Lombardia,BG,Dalmine,27986,5
+Lombardia,BG,Gandino,8960,2
+Lombardia,BG,Gazzaniga,16149,2
+Lombardia,BG,Gromo,7301,1
+Lombardia,BG,Grumello del Monte,9954,1
+Lombardia,BG,Leffe,10619,2
+Lombardia,BG,Lovere,14602,2
+Lombardia,BG,Nembro,7301,1
+Lombardia,BG,Osio Sotto,7301,1
+Lombardia,BG,Presezzo,12278,2
+Lombardia,BG,Romano di Lombardia,21238,3
+Lombardia,BG,San Giovanni Bianco,10619,2
+Lombardia,BG,San Pellegrino Terme,1659,1
+Lombardia,BG,Sarnico,8960,2
+Lombardia,BG,Seriate,7301,1
+Lombardia,BG,Sorisole,10066,2
+Lombardia,BG,Tavernola Bergamasca,7301,1
+Lombardia,BG,Terno d'Isola,11725,2
+Lombardia,BG,Torre Boldone,10619,2
+Lombardia,BG,Trescore Balneario,7301,1
+Lombardia,BG,Treviglio,40264,7
+Lombardia,BG,Urgnano,7301,1
+Lombardia,BG,Val Brembilla,2765,1
+Lombardia,BG,Valnegra,10066,2
+Lombardia,BG,Verdellino,2212,1
+Lombardia,BG,Verdello,20020,2
+Lombardia,BG,Vertova,5530,1
+Lombardia,BG,Villa d'Almè,7301,1
+Lombardia,BG,Vilminore di Scalve,8960,2
+Lombardia,BG,Zanica,9513,2
+Lombardia,BG,Zogno,21238,4
+Lombardia,BS,Artogne,7301,1
+Lombardia,BS,Azzano Mella,7301,1
+Lombardia,BS,Bagnolo Mella,16149,2
+Lombardia,BS,Borgosatollo,8960,2
+Lombardia,BS,Botticino,9513,2
+Lombardia,BS,Breno,34622,6
+Lombardia,BS,Brescia,205737,27
+Lombardia,BS,Capo di Ponte,19467,2
+Lombardia,BS,Capriolo,7301,1
+Lombardia,BS,Castenedolo,19467,2
+Lombardia,BS,Castrezzato,3318,1
+Lombardia,BS,Cedegolo,19467,2
+Lombardia,BS,Cividate Camuno,7301,1
+Lombardia,BS,Coccaglio,8960,2
+Lombardia,BS,Cologne,12278,2
+Lombardia,BS,Corte Franca,7301,1
+Lombardia,BS,Darfo Boario Terme,43470,6
+Lombardia,BS,Dello,14490,2
+Lombardia,BS,Desenzano del Garda,29533,4
+Lombardia,BS,Edolo,21238,3
+Lombardia,BS,Esine,7301,1
+Lombardia,BS,Flero,7301,1
+Lombardia,BS,Gardone Val Trompia,22785,3
+Lombardia,BS,Gargnano,19467,2
+Lombardia,BS,Gavardo,10619,2
+Lombardia,BS,Gussago,9401,1
+Lombardia,BS,Idro,10619,2
+Lombardia,BS,Iseo,14602,2
+Lombardia,BS,Leno,21679,3
+Lombardia,BS,Lumezzane,19467,2
+Lombardia,BS,Manerba del Garda,7301,1
+Lombardia,BS,Manerbio,18914,2
+Lombardia,BS,Mazzano,9513,2
+Lombardia,BS,Montichiari,24668,4
+Lombardia,BS,Nuvolento,3318,1
+Lombardia,BS,Ome,12278,2
+Lombardia,BS,Orzinuovi,7301,1
+Lombardia,BS,Ospitaletto,7301,1
+Lombardia,BS,Palazzolo sull'Oglio,36281,5
+Lombardia,BS,Passirano,17255,2
+Lombardia,BS,Pisogne,10619,2
+Lombardia,BS,Ponte di Legno,17255,2
+Lombardia,BS,Pontoglio,15043,2
+Lombardia,BS,Prevalle,7301,1
+Lombardia,BS,Provaglio d'Iseo,7301,1
+Lombardia,BS,Rezzato,9513,2
+Lombardia,BS,Roncadelle,12278,2
+Lombardia,BS,Rovato,17808,2
+Lombardia,BS,Sale Marasino,11725,2
+Lombardia,BS,Salò,7301,1
+Lombardia,BS,San Zeno Naviglio,10619,2
+Lombardia,BS,Travagliato,11172,2
+Lombardia,BS,Trenzano,7301,1
+Lombardia,BS,Verolanuova,19467,2
+Lombardia,BS,Vobarno,17808,2
+Lombardia,CO,Appiano Gentile,9401,1
+Lombardia,CO,Cadorago,17808,2
+Lombardia,CO,Cantù,64596,8
+Lombardia,CO,Centro Valle Intelvi,18914,2
+Lombardia,CO,Como,136269,16
+Lombardia,CO,Dongo,7301,1
+Lombardia,CO,Erba,17255,2
+Lombardia,CO,Faloppio,6083,1
+Lombardia,CO,Fino Mornasco,12831,2
+Lombardia,CO,Gravedona ed Uniti,7301,1
+Lombardia,CO,Inverigo,9513,2
+Lombardia,CO,Lomazzo,8960,2
+Lombardia,CO,Lurate Caccivio,7301,1
+Lombardia,CO,Mariano Comense,18249,2
+Lombardia,CO,Menaggio,12278,2
+Lombardia,CO,Merone,17808,2
+Lombardia,CO,Mozzate,10619,2
+Lombardia,CO,Olgiate Comasco,14602,2
+Lombardia,CO,Ponte Lambro,18914,2
+Lombardia,CO,Porlezza,17808,2
+Lombardia,CO,Rovellasca,7301,1
+Lombardia,CO,Tavernerio,17808,2
+Lombardia,CO,Turate,7301,1
+Lombardia,CO,Valmorea,20020,2
+Lombardia,CO,Vertemate con Minoprio,7301,1
+Lombardia,CO,Villa Guardia,20020,2
+Lombardia,CR,Casalmaggiore,35175,5
+Lombardia,CR,Castelverde,8960,2
+Lombardia,CR,Crema,43582,7
+Lombardia,CR,Cremona,92029,12
+Lombardia,CR,Gussola,7301,1
+Lombardia,CR,Montodine,20020,2
+Lombardia,CR,Offanengo,7301,1
+Lombardia,CR,Pandino,7301,1
+Lombardia,CR,Piadena Drizzona,7301,1
+Lombardia,CR,Pizzighettone,7301,1
+Lombardia,CR,Sergnano,11725,2
+Lombardia,CR,Soncino,7301,1
+Lombardia,CR,Soresina,7301,1
+Lombardia,CR,Sospiro,7301,1
+Lombardia,CR,Trescore Cremasco,12831,2
+Lombardia,LC,Barzanò,7301,1
+Lombardia,LC,Bellano,7301,1
+Lombardia,LC,Calolziocorte,14602,2
+Lombardia,LC,Cassago Brianza,7301,1
+Lombardia,LC,Civate,8960,2
+Lombardia,LC,Colico,7301,1
+Lombardia,LC,Costa Masnaga,11725,2
+Lombardia,LC,Galbiate,7301,1
+Lombardia,LC,La Valletta Brianza,7301,1
+Lombardia,LC,Lecco,67144,10
+Lombardia,LC,Mandello del Lario,7301,1
+Lombardia,LC,Merate,25774,4
+Lombardia,LC,Missaglia,7301,1
+Lombardia,LC,Molteno,7301,1
+Lombardia,LC,Monticello Brianza,7301,1
+Lombardia,LC,Oggiono,7301,1
+Lombardia,LC,Olgiate Molgora,7301,1
+Lombardia,LC,Premana,7301,1
+Lombardia,LO,Borghetto Lodigiano,7301,1
+Lombardia,LO,Casalpusterlengo,16149,2
+Lombardia,LO,Castiglione d'Adda,7301,1
+Lombardia,LO,Codogno,31192,4
+Lombardia,LO,Livraga,10066,2
+Lombardia,LO,Lodi,84175,11
+Lombardia,LO,Lodi Vecchio,12278,2
+Lombardia,LO,Maleo,7301,1
+Lombardia,LO,Sant'Angelo Lodigiano,12278,2
+Lombardia,LO,Somaglia,12831,2
+Lombardia,MB,Agrate Brianza,7301,1
+Lombardia,MB,Barlassina,17808,2
+Lombardia,MB,Bernareggio,7301,1
+Lombardia,MB,Besana in Brianza,7301,1
+Lombardia,MB,Bovisio-Masciago,12166,1
+Lombardia,MB,Brugherio,7301,1
+Lombardia,MB,Busnago,18914,2
+Lombardia,MB,Carate Brianza,11172,2
+Lombardia,MB,Carnate,15596,2
+Lombardia,MB,Cavenago di Brianza,20020,2
+Lombardia,MB,Cesano Maderno,23891,3
+Lombardia,MB,Cogliate,3318,1
+Lombardia,MB,Concorezzo,20020,2
+Lombardia,MB,Cornate d'Adda,20020,2
+Lombardia,MB,Desio,42917,5
+Lombardia,MB,Giussano,32298,4
+Lombardia,MB,Lazzate,16702,2
+Lombardia,MB,Lesmo,20020,2
+Lombardia,MB,Limbiate,22785,3
+Lombardia,MB,Lissone,17255,2
+Lombardia,MB,Meda,44688,7
+Lombardia,MB,Monza,149989,20
+Lombardia,MB,Muggiò,7301,1
+Lombardia,MB,Nova Milanese,14602,2
+Lombardia,MB,Renate,11725,2
+Lombardia,MB,Seregno,39046,5
+Lombardia,MB,Seveso,12278,2
+Lombardia,MB,Triuggio,8960,2
+Lombardia,MB,Usmate Velate,7301,1
+Lombardia,MB,Varedo,12278,2
+Lombardia,MB,Vedano al Lambro,18361,2
+Lombardia,MB,Villasanta,18914,2
+Lombardia,MB,Vimercate,61831,8
+Lombardia,MI,Abbiategrasso,24556,3
+Lombardia,MI,Arese,18914,2
+Lombardia,MI,Assago,15596,2
+Lombardia,MI,Baranzate,12166,1
+Lombardia,MI,Bareggio,18914,2
+Lombardia,MI,Basiglio,7301,1
+Lombardia,MI,Binasco,20020,2
+Lombardia,MI,Bollate,58401,6
+Lombardia,MI,Bresso,7301,1
+Lombardia,MI,Buccinasco,25109,3
+Lombardia,MI,Carugate,18914,2
+Lombardia,MI,Cassano d'Adda,19467,2
+Lombardia,MI,Castano Primo,11172,2
+Lombardia,MI,Cernusco sul Naviglio,16149,2
+Lombardia,MI,Cesano Boscone,28315,3
+Lombardia,MI,Cinisello Balsamo,67361,8
+Lombardia,MI,Cisliano,17255,2
+Lombardia,MI,Cologno Monzese,54642,7
+Lombardia,MI,Cornaredo,30086,4
+Lombardia,MI,Corsico,14602,2
+Lombardia,MI,Cuggiono,7301,1
+Lombardia,MI,Cusano Milanino,25662,3
+Lombardia,MI,Gaggiano,9513,2
+Lombardia,MI,Garbagnate Milanese,29974,3
+Lombardia,MI,Gessate,7301,1
+Lombardia,MI,Gorgonzola,43911,5
+Lombardia,MI,Inveruno,40040,4
+Lombardia,MI,Inzago,12166,1
+Lombardia,MI,Lainate,16702,2
+Lombardia,MI,Legnano,16702,2
+Lombardia,MI,Locate di Triulzi,18361,2
+Lombardia,MI,Magnago,20020,2
+Lombardia,MI,Marcallo con Casone,8960,2
+Lombardia,MI,Masate,18914,2
+Lombardia,MI,Mediglia,19467,2
+Lombardia,MI,Melegnano,36281,5
+Lombardia,MI,Melzo,13937,2
+Lombardia,MI,Milano,809991,90
+Lombardia,MI,Motta Visconti,13384,2
+Lombardia,MI,Novate Milanese,19467,2
+Lombardia,MI,Noviglio,11613,1
+Lombardia,MI,Opera,7301,1
+Lombardia,MI,Ossona,19467,2
+Lombardia,MI,Paderno Dugnano,29533,4
+Lombardia,MI,Parabiago,17696,2
+Lombardia,MI,Paullo,10619,2
+Lombardia,MI,Peschiera Borromeo,6636,1
+Lombardia,MI,Pessano con Bornago,20020,2
+Lombardia,MI,Pioltello,20020,2
+Lombardia,MI,Pregnana Milanese,7301,1
+Lombardia,MI,Rescaldina,20020,2
+Lombardia,MI,Rho,95788,12
+Lombardia,MI,Rozzano,60060,6
+Lombardia,MI,San Colombano al Lambro,20020,2
+Lombardia,MI,San Donato Milanese,7301,1
+Lombardia,MI,San Giuliano Milanese,40705,5
+Lombardia,MI,Sedriano,18361,2
+Lombardia,MI,Segrate,11725,2
+Lombardia,MI,Senago,28980,4
+Lombardia,MI,Sesto San Giovanni,74550,9
+Lombardia,MI,Settala,11613,1
+Lombardia,MI,Settimo Milanese,19467,2
+Lombardia,MI,Solaro,19467,2
+Lombardia,MI,Trezzo sull'Adda,20020,2
+Lombardia,MI,Vermezzo con Zelo,7301,1
+Lombardia,MI,Villa Cortese,7301,1
+Lombardia,MI,Vittuone,26215,3
+Lombardia,MI,Vizzolo Predabissi,7301,1
+Lombardia,MN,Asola,13937,2
+Lombardia,MN,Borgo Virgilio,1659,1
+Lombardia,MN,Castel Goffredo,8960,2
+Lombardia,MN,Castellucchio,7301,1
+Lombardia,MN,Castiglione delle Stiviere,26768,3
+Lombardia,MN,Ceresara,7301,1
+Lombardia,MN,Gonzaga,10619,2
+Lombardia,MN,Mantova,19579,3
+Lombardia,MN,Marcaria,9513,2
+Lombardia,MN,Ostiglia,7301,1
+Lombardia,MN,Poggio Rusco,7301,1
+Lombardia,MN,Porto Mantovano,7301,1
+Lombardia,MN,Quistello,7301,1
+Lombardia,MN,Roverbella,7301,1
+Lombardia,MN,San Benedetto Po,7301,1
+Lombardia,MN,Suzzara,22897,3
+Lombardia,MN,Viadana,7301,1
+Lombardia,PV,Belgioioso,3318,1
+Lombardia,PV,Cassolnovo,3318,1
+Lombardia,PV,Casteggio,5530,1
+Lombardia,PV,Cava Manara,10066,2
+Lombardia,PV,Chignolo Po,3318,1
+Lombardia,PV,Gambolò,4977,1
+Lombardia,PV,Mede,9513,2
+Lombardia,PV,Mortara,15043,3
+Lombardia,PV,Pavia,24668,4
+Lombardia,PV,Rivanazzano Terme,20020,2
+Lombardia,PV,Sannazzaro de' Burgondi,5530,1
+Lombardia,PV,Santa Maria della Versa,10619,2
+Lombardia,PV,Stradella,26768,3
+Lombardia,PV,Varzi,15043,2
+Lombardia,PV,Vigevano,41146,5
+Lombardia,PV,Villanterio,7301,1
+Lombardia,PV,Voghera,33516,4
+Lombardia,SO,Berbenno di Valtellina,9513,2
+Lombardia,SO,Bormio,20020,2
+Lombardia,SO,Chiavenna,8960,2
+Lombardia,SO,Cosio Valtellino,10619,2
+Lombardia,SO,Delebio,9513,2
+Lombardia,SO,Grosio,7301,1
+Lombardia,SO,Morbegno,25662,4
+Lombardia,SO,Ponte in Valtellina,10619,2
+Lombardia,SO,Sondrio,35175,5
+Lombardia,SO,Talamona,7301,1
+Lombardia,SO,Teglio,7301,1
+Lombardia,SO,Tirano,19579,4
+Lombardia,SO,Traona,7301,1
+Lombardia,VA,Angera,7301,1
+Lombardia,VA,Arcisate,18914,2
+Lombardia,VA,Azzate,19467,2
+Lombardia,VA,Besozzo,12719,1
+Lombardia,VA,Bisuschio,10619,2
+Lombardia,VA,Busto Arsizio,122556,15
+Lombardia,VA,Caravate,11172,2
+Lombardia,VA,Cardano al Campo,7301,1
+Lombardia,VA,Casorate Sempione,20020,2
+Lombardia,VA,Cassano Magnago,38934,4
+Lombardia,VA,Castellanza,38381,4
+Lombardia,VA,Castiglione Olona,7301,1
+Lombardia,VA,Castronno,9513,2
+Lombardia,VA,Cavaria con Premezzo,12278,2
+Lombardia,VA,Comerio,18914,2
+Lombardia,VA,Cunardo,20020,2
+Lombardia,VA,Fagnano Olona,8960,2
+Lombardia,VA,Gallarate,83951,9
+Lombardia,VA,Gavirate,2765,1
+Lombardia,VA,Gazzada Schianno,12278,2
+Lombardia,VA,Gemonio,12166,1
+Lombardia,VA,Germignaga,19467,2
+Lombardia,VA,Lavena Ponte Tresa,20020,2
+Lombardia,VA,Laveno-Mombello,18361,2
+Lombardia,VA,Lonate Ceppino,20020,2
+Lombardia,VA,Luino,46788,5
+Lombardia,VA,Mesenzana,19467,2
+Lombardia,VA,Mornago,16149,2
+Lombardia,VA,Olgiate Olona,20020,2
+Lombardia,VA,Saronno,118573,14
+Lombardia,VA,Sesto Calende,7301,1
+Lombardia,VA,Solbiate Olona,11172,2
+Lombardia,VA,Somma Lombardo,20020,2
+Lombardia,VA,Tradate,43911,5
+Lombardia,VA,Travedona-Monate,10066,2
+Lombardia,VA,Varese,119238,15
+Lombardia,VA,Vedano Olona,7301,1
+Lombardia,VA,Vergiate,11172,2
+Lombardia,VA,Viggiù,19467,2
+Marche,AN,Ancona,169785,20
+Marche,AN,Camerano,17808,2
+Marche,AN,Cerreto d'Esi,17808,2
+Marche,AN,Chiaravalle,18473,4
+Marche,AN,Corinaldo,7301,1
+Marche,AN,Cupramontana,7301,1
+Marche,AN,Fabriano,94241,13
+Marche,AN,Falconara Marittima,14602,2
+Marche,AN,Filottrano,11172,2
+Marche,AN,Jesi,78204,12
+Marche,AN,Loreto,14602,2
+Marche,AN,Monte Roberto,7301,1
+Marche,AN,Monte San Vito,7301,1
+Marche,AN,Osimo,55195,8
+Marche,AN,Ostra,12278,2
+Marche,AN,Polverigi,10066,2
+Marche,AN,San Marcello,7301,1
+Marche,AN,Sassoferrato,10066,2
+Marche,AN,Senigallia,59178,8
+Marche,AN,Serra San Quirico,7301,1
+Marche,AP,Ascoli Piceno,75768,10
+Marche,AP,Castel di Lama,10066,2
+Marche,AP,Comunanza,9513,2
+Marche,AP,Folignano,9513,2
+Marche,AP,Montalto delle Marche,9513,2
+Marche,AP,Monteprandone,11172,2
+Marche,AP,Roccafluvione,11725,2
+Marche,AP,San Benedetto del Tronto,58625,9
+Marche,AP,Spinetoli,7301,1
+Marche,FM,Amandola,2212,1
+Marche,FM,Falerone,7301,1
+Marche,FM,Fermo,40264,7
+Marche,FM,Monte Urano,9513,2
+Marche,FM,Monterubbiano,10619,2
+Marche,FM,Petritoli,7301,1
+Marche,FM,Porto San Giorgio,7301,1
+Marche,FM,Porto Sant'Elpidio,7301,1
+Marche,FM,Sant'Elpidio a Mare,2765,1
+Marche,MC,Apiro,7301,1
+Marche,MC,Appignano,7301,1
+Marche,MC,Caldarola,20020,2
+Marche,MC,Camerino,9513,2
+Marche,MC,Castelraimondo,10619,2
+Marche,MC,Cingoli,11172,2
+Marche,MC,Civitanova Marche,53760,9
+Marche,MC,Colmurano,7301,1
+Marche,MC,Corridonia,22344,3
+Marche,MC,Macerata,70462,11
+Marche,MC,Matelica,25109,3
+Marche,MC,Mogliano,17255,2
+Marche,MC,Monte San Giusto,7301,1
+Marche,MC,Montecassiano,9513,2
+Marche,MC,Pieve Torina,7301,1
+Marche,MC,Pollenza,7301,1
+Marche,MC,Potenza Picena,17808,2
+Marche,MC,Recanati,13937,2
+Marche,MC,San Ginesio,17255,2
+Marche,MC,San Severino Marche,3871,1
+Marche,MC,Sarnano,18361,3
+Marche,MC,Tolentino,24556,3
+Marche,MC,Treia,7301,1
+Marche,PU,Acqualagna,7301,1
+Marche,PU,Apecchio,9513,2
+Marche,PU,Cagli,19579,4
+Marche,PU,Cartoceto,7301,1
+Marche,PU,Fano,75880,12
+Marche,PU,Fermignano,7301,1
+Marche,PU,Fossombrone,17367,3
+Marche,PU,Macerata Feltria,8960,2
+Marche,PU,Mondolfo,1659,1
+Marche,PU,Montefelcino,19467,2
+Marche,PU,Pesaro,83181,15
+Marche,PU,Piandimeleto,10066,2
+Marche,PU,Sant'Angelo in Vado,19467,2
+Marche,PU,Sassocorvaro Auditore,13384,3
+Marche,PU,Tavullia,11172,2
+Marche,PU,Urbania,8960,2
+Marche,PU,Urbino,41258,6
+Molise,CB,Baranello,20020,2
+Molise,CB,Bojano,40040,4
+Molise,CB,Campobasso,229180,24
+Molise,CB,Campodipietra,20020,2
+Molise,CB,Campomarino,20020,2
+Molise,CB,Casacalenda,19467,2
+Molise,CB,Cercemaggiore,19467,2
+Molise,CB,Guglionesi,20020,2
+Molise,CB,Montenero di Bisaccia,20020,2
+Molise,CB,Petacciato,20020,2
+Molise,CB,Riccia,20020,2
+Molise,CB,Ripalimosani,19467,2
+Molise,CB,San Martino in Pensilis,11172,2
+Molise,CB,Santa Croce di Magliano,20020,2
+Molise,CB,Termoli,152859,15
+Molise,CB,Trivento,19467,2
+Molise,CB,Vinchiaturo,20020,2
+Molise,IS,Carovilli,7301,1
+Molise,IS,Colli a Volturno,13384,2
+Molise,IS,Frosolone,20020,2
+Molise,IS,Isernia,58072,8
+Molise,IS,Venafro,34622,4
+Piemonte,AL,Acqui Terme,23450,3
+Piemonte,AL,Alessandria,26768,4
+Piemonte,AL,Casale Monferrato,47782,6
+Piemonte,AL,Castelnuovo Scrivia,7301,1
+Piemonte,AL,Cerrina Monferrato,7301,1
+Piemonte,AL,Felizzano,7301,1
+Piemonte,AL,Molare,7301,1
+Piemonte,AL,Novi Ligure,20685,3
+Piemonte,AL,Rivalta Bormida,10066,2
+Piemonte,AL,Ticineto,7301,1
+Piemonte,AL,Tortona,8960,2
+Piemonte,AL,Valenza,7301,1
+Piemonte,AL,Viguzzolo,20020,2
+Piemonte,AT,Asti,6636,2
+Piemonte,AT,Canelli,8960,2
+Piemonte,AT,Castell'Alfero,2765,1
+Piemonte,AT,Costigliole d'Asti,10619,2
+Piemonte,AT,Incisa Scapaccino,7301,1
+Piemonte,AT,San Damiano d'Asti,9513,2
+Piemonte,AT,Villanova d'Asti,7301,1
+Piemonte,BI,Andorno Micca,7301,1
+Piemonte,BI,Biella,35616,5
+Piemonte,BI,Brusnengo,8960,2
+Piemonte,BI,Cavaglià,20020,2
+Piemonte,BI,Cossato,6636,1
+Piemonte,BI,Mongrando,5530,1
+Piemonte,BI,Occhieppo Inferiore,8960,2
+Piemonte,BI,Pray,20020,2
+Piemonte,BI,Sandigliano,10619,2
+Piemonte,BI,Valdengo,14490,2
+Piemonte,CN,Alba,93688,12
+Piemonte,CN,Bagnolo Piemonte,7301,1
+Piemonte,CN,Bene Vagienna,20020,2
+Piemonte,CN,Bernezzo,7301,1
+Piemonte,CN,Bra,20132,4
+Piemonte,CN,Centallo,4977,1
+Piemonte,CN,Cherasco,10066,2
+Piemonte,CN,Chiusa di Pesio,7301,1
+Piemonte,CN,Cortemilia,7301,1
+Piemonte,CN,Cuneo,57519,8
+Piemonte,CN,Diano d'Alba,10066,2
+Piemonte,CN,Dogliani,12831,2
+Piemonte,CN,Dronero,12831,2
+Piemonte,CN,Fossano,17808,3
+Piemonte,CN,Garessio,10619,2
+Piemonte,CN,La Morra,7301,1
+Piemonte,CN,Mondovì,36834,5
+Piemonte,CN,Moretta,7301,1
+Piemonte,CN,Morozzo,7301,1
+Piemonte,CN,Robilante,7301,1
+Piemonte,CN,Saluzzo,7301,1
+Piemonte,CN,Santa Vittoria d'Alba,7301,1
+Piemonte,CN,Savigliano,59619,8
+Piemonte,CN,Sommariva del Bosco,7301,1
+Piemonte,CN,Sommariva Perno,12719,1
+Piemonte,NO,Bellinzago Novarese,20020,2
+Piemonte,NO,Borgomanero,28980,4
+Piemonte,NO,Cameri,20020,2
+Piemonte,NO,Cerano,16702,2
+Piemonte,NO,Gozzano,18361,2
+Piemonte,NO,Momo,7301,1
+Piemonte,NO,Novara,80304,11
+Piemonte,NO,Oleggio,9513,2
+Piemonte,NO,Romagnano Sesia,16149,2
+Piemonte,NO,Romentino,16702,2
+Piemonte,NO,San Maurizio d'Opaglio,2212,1
+Piemonte,TO,Airasca,9513,2
+Piemonte,TO,Almese,10066,2
+Piemonte,TO,Alpignano,2765,1
+Piemonte,TO,Avigliana,16702,3
+Piemonte,TO,Azeglio,13937,2
+Piemonte,TO,Borgaro Torinese,10619,2
+Piemonte,TO,Brusasco,17808,2
+Piemonte,TO,Caluso,21679,4
+Piemonte,TO,Candiolo,10619,2
+Piemonte,TO,Carignano,3318,1
+Piemonte,TO,Carmagnola,26327,5
+Piemonte,TO,Caselette,13937,2
+Piemonte,TO,Caselle Torinese,7301,1
+Piemonte,TO,Castellamonte,7301,1
+Piemonte,TO,Castiglione Torinese,20020,2
+Piemonte,TO,Cavour,7301,1
+Piemonte,TO,Chieri,21126,6
+Piemonte,TO,Chivasso,24668,4
+Piemonte,TO,Ciriè,39487,4
+Piemonte,TO,Collegno,12719,1
+Piemonte,TO,Favria,7301,1
+Piemonte,TO,Gassino Torinese,7301,1
+Piemonte,TO,Grugliasco,26768,5
+Piemonte,TO,Ivrea,26103,4
+Piemonte,TO,Leini,13384,2
+Piemonte,TO,Mappano,7301,1
+Piemonte,TO,Moncalieri,35840,7
+Piemonte,TO,Montanaro,18914,2
+Piemonte,TO,Nichelino,28980,6
+Piemonte,TO,Nole,9513,2
+Piemonte,TO,None,15596,2
+Piemonte,TO,Orbassano,25221,4
+Piemonte,TO,Oulx,9513,2
+Piemonte,TO,Pavone Canavese,7301,1
+Piemonte,TO,Perosa Argentina,10619,2
+Piemonte,TO,Pinerolo,68579,10
+Piemonte,TO,Pino Torinese,7301,1
+Piemonte,TO,Piossasco,22344,4
+Piemonte,TO,Poirino,15043,2
+Piemonte,TO,Pont-Canavese,7301,1
+Piemonte,TO,Rivarolo Canavese,12278,2
+Piemonte,TO,Rivoli,30086,5
+Piemonte,TO,San Benigno Canavese,7301,1
+Piemonte,TO,San Maurizio Canavese,7301,1
+Piemonte,TO,Santena,9513,2
+Piemonte,TO,Settimo Torinese,53536,7
+Piemonte,TO,Susa,25662,3
+Piemonte,TO,Torino,584682,86
+Piemonte,TO,Torre Pellice,10066,2
+Piemonte,TO,Trana,9513,2
+Piemonte,TO,Venaria Reale,12278,2
+Piemonte,TO,Vigone,10619,2
+Piemonte,TO,Vinovo,9513,2
+Piemonte,TO,Volpiano,18914,2
+Piemonte,VB,Baceno,8960,2
+Piemonte,VB,Ghiffa,12719,1
+Piemonte,VB,Omegna,32298,4
+Piemonte,VB,Santa Maria Maggiore,7301,1
+Piemonte,VB,Stresa,11060,1
+Piemonte,VB,Verbania,66255,8
+Piemonte,VB,Villadossola,3318,1
+Piemonte,VC,Asigliano Vercellese,9401,1
+Piemonte,VC,Cigliano,10619,2
+Piemonte,VC,Crescentino,9513,2
+Piemonte,VC,Livorno Ferraris,12831,2
+Piemonte,VC,Quarona,10619,2
+Piemonte,VC,Santhià,18914,2
+Piemonte,VC,Serravalle Sesia,8960,2
+Piemonte,VC,Vercelli,69244,10
+Puglia,BA,Acquaviva delle Fonti,62825,7
+Puglia,BA,Altamura,34622,5
+Puglia,BA,Bari,319879,42
+Puglia,BA,Bitetto,20461,2
+Puglia,BA,Bitonto,111825,12
+Puglia,BA,Bitritto,11613,1
+Puglia,BA,Capurso,8848,1
+Puglia,BA,Casamassima,7742,1
+Puglia,BA,Castellana Grotte,37940,5
+Puglia,BA,Cellamare,16149,2
+Puglia,BA,Conversano,32298,4
+Puglia,BA,Corato,60613,7
+Puglia,BA,Gioia del Colle,53312,6
+Puglia,BA,Giovinazzo,32298,4
+Puglia,BA,Gravina in Puglia,36722,4
+Puglia,BA,Locorotondo,20020,2
+Puglia,BA,Modugno,33733,4
+Puglia,BA,Mola di Bari,36169,4
+Puglia,BA,Molfetta,52318,7
+Puglia,BA,Monopoli,67914,8
+Puglia,BA,Noci,28427,4
+Puglia,BA,Noicattaro,38381,4
+Puglia,BA,Palo del Colle,16702,2
+Puglia,BA,Polignano a Mare,34510,4
+Puglia,BA,Putignano,16149,2
+Puglia,BA,Rutigliano,36169,4
+Puglia,BA,Ruvo di Puglia,27321,3
+Puglia,BA,Sannicandro di Bari,7301,1
+Puglia,BA,Santeramo in Colle,42693,4
+Puglia,BA,Terlizzi,18914,2
+Puglia,BA,Toritto,16702,2
+Puglia,BA,Triggiano,46235,7
+Puglia,BA,Turi,15596,2
+Puglia,BA,Valenzano,29421,3
+Puglia,BR,Brindisi,74557,13
+Puglia,BR,Ceglie Messapica,16149,2
+Puglia,BR,Cellino San Marco,13937,2
+Puglia,BR,Cisternino,26215,3
+Puglia,BR,Fasano,24997,3
+Puglia,BR,Francavilla Fontana,41923,5
+Puglia,BR,Latiano,17808,2
+Puglia,BR,Mesagne,11172,2
+Puglia,BR,Oria,27321,3
+Puglia,BR,Ostuni,13384,2
+Puglia,BR,San Pietro Vernotico,19467,2
+Puglia,BR,San Vito dei Normanni,12719,1
+Puglia,BR,Torre Santa Susanna,16149,2
+Puglia,BR,Villa Castelli,13937,2
+Puglia,BT,Andria,44688,7
+Puglia,BT,Barletta,70238,8
+Puglia,BT,Bisceglie,12166,1
+Puglia,BT,Canosa di Puglia,7301,1
+Puglia,BT,Margherita di Savoia,17808,2
+Puglia,BT,San Ferdinando di Puglia,47894,6
+Puglia,BT,Trani,45570,5
+Puglia,BT,Trinitapoli,19467,3
+Puglia,FG,Apricena,10619,2
+Puglia,FG,Ascoli Satriano,12278,2
+Puglia,FG,Biccari,2212,1
+Puglia,FG,Cagnano Varano,18361,2
+Puglia,FG,Carapelle,17808,2
+Puglia,FG,Carpino,20020,2
+Puglia,FG,Casalnuovo Monterotaro,9513,2
+Puglia,FG,Celenza Valfortore,17255,2
+Puglia,FG,Cerignola,105077,12
+Puglia,FG,Foggia,222985,26
+Puglia,FG,Manfredonia,63490,9
+Puglia,FG,Mattinata,19467,2
+Puglia,FG,Monte Sant'Angelo,35175,5
+Puglia,FG,Rodi Garganico,19467,2
+Puglia,FG,San Giovanni Rotondo,13937,3
+Puglia,FG,San Marco in Lamis,8960,2
+Puglia,FG,San Severo,60172,8
+Puglia,FG,Stornara,18361,2
+Puglia,FG,Stornarella,11060,1
+Puglia,FG,Torremaggiore,17920,3
+Puglia,FG,Vico del Gargano,27321,3
+Puglia,FG,Vieste,19467,3
+Puglia,LE,Andrano,15596,2
+Puglia,LE,Campi Salentina,2212,1
+Puglia,LE,Casarano,46235,5
+Puglia,LE,Cavallino,20020,2
+Puglia,LE,Copertino,49000,6
+Puglia,LE,Cursi,20020,2
+Puglia,LE,Cutrofiano,7301,1
+Puglia,LE,Galatone,11725,2
+Puglia,LE,Gallipoli,43470,5
+Puglia,LE,Lecce,218232,27
+Puglia,LE,Lequile,7301,1
+Puglia,LE,Lizzanello,12278,2
+Puglia,LE,Maglie,70679,8
+Puglia,LE,Matino,4424,1
+Puglia,LE,Monteroni di Lecce,11725,2
+Puglia,LE,Muro Leccese,7301,1
+Puglia,LE,Nardò,40040,4
+Puglia,LE,Novoli,14490,2
+Puglia,LE,Poggiardo,20020,2
+Puglia,LE,Porto Cesareo,11172,2
+Puglia,LE,Ruffano,10619,2
+Puglia,LE,Salice Salentino,20020,2
+Puglia,LE,Santa Cesarea Terme,7301,1
+Puglia,LE,Scorrano,20020,2
+Puglia,LE,Squinzano,12719,1
+Puglia,LE,Supersano,20020,2
+Puglia,LE,Surbo,25438,2
+Puglia,LE,Taurisano,12166,1
+Puglia,LE,Taviano,20020,2
+Puglia,LE,Trepuzzi,14602,2
+Puglia,LE,Tricase,37275,4
+Puglia,LE,Ugento,7301,1
+Puglia,LE,Uggiano la Chiesa,7301,1
+Puglia,LE,Vernole,17255,2
+Puglia,TA,Carosino,20020,2
+Puglia,TA,Castellaneta,28539,4
+Puglia,TA,Crispiano,16261,3
+Puglia,TA,Lizzano,10066,2
+Puglia,TA,Manduria,37940,5
+Puglia,TA,Martina Franca,66479,9
+Puglia,TA,Maruggio,20020,2
+Puglia,TA,Massafra,57407,7
+Puglia,TA,Mottola,30086,4
+Puglia,TA,Palagianello,7301,1
+Puglia,TA,Palagiano,7301,1
+Puglia,TA,Pulsano,7301,1
+Puglia,TA,Sava,12831,3
+Puglia,TA,Statte,12278,2
+Puglia,TA,Taranto,238371,35
+Sardegna,CA,Cagliari,34510,6
+Sardegna,CA,Elmas,10066,2
+Sardegna,CA,Maracalagonis,20020,2
+Sardegna,CA,Monserrato,7301,1
+Sardegna,CA,Quartu Sant'Elena,29421,4
+Sardegna,CA,Selargius,3318,1
+Sardegna,CA,Sestu,10066,2
+Sardegna,CA,Settimo San Pietro,7301,1
+Sardegna,CA,Sinnai,9513,2
+Sardegna,NU,Bitti,12719,1
+Sardegna,NU,Dorgali,10619,2
+Sardegna,NU,Fonni,8295,1
+Sardegna,NU,Irgoli,7301,1
+Sardegna,NU,Jerzu,10066,2
+Sardegna,NU,Lanusei,3871,1
+Sardegna,NU,Macomer,21791,4
+Sardegna,NU,Nuoro,43470,7
+Sardegna,NU,Siniscola,35063,4
+Sardegna,NU,Tortolì,7301,1
+Sardegna,OR,Abbasanta,10619,2
+Sardegna,OR,Bosa,17808,2
+Sardegna,OR,Mogoro,7301,1
+Sardegna,OR,Oristano,34622,5
+Sardegna,OR,Santu Lussurgiu,19467,2
+Sardegna,OR,Simaxis,7301,1
+Sardegna,SS,Alghero,18914,2
+Sardegna,SS,Arzachena,32298,4
+Sardegna,SS,Bono,19467,2
+Sardegna,SS,Buddusò,18361,2
+Sardegna,SS,Calangianus,13384,2
+Sardegna,SS,Castelsardo,11172,2
+Sardegna,SS,Ittiri,7301,1
+Sardegna,SS,Olbia,62272,7
+Sardegna,SS,Ossi,3871,1
+Sardegna,SS,Palau,10066,2
+Sardegna,SS,Pozzomaggiore,4977,1
+Sardegna,SS,Sassari,58513,9
+Sardegna,SS,Tempio Pausania,20685,3
+Sardegna,SU,Carbonia,59731,9
+Sardegna,SU,Guasila,20020,2
+Sardegna,SU,Iglesias,55636,7
+Sardegna,SU,Isili,7301,1
+Sardegna,SU,San Gavino Monreale,3871,1
+Sardegna,SU,San Giovanni Suergiu,10619,2
+Sardegna,SU,Serramanna,12278,2
+Sardegna,SU,Villacidro,7301,1
+Sardegna,SU,Villamar,11060,1
+Sardegna,SU,Villaputzu,7301,1
+Sardegna,SU,Villasor,7301,1
+Sicilia,AG,Agrigento,34181,6
+Sicilia,AG,Bivona,9513,2
+Sicilia,AG,Burgio,20020,2
+Sicilia,AG,Cammarata,13384,2
+Sicilia,AG,Campobello di Licata,7301,1
+Sicilia,AG,Canicattì,34622,4
+Sicilia,AG,Favara,40705,6
+Sicilia,AG,Licata,14490,4
+Sicilia,AG,Menfi,2212,1
+Sicilia,AG,Palma di Montechiaro,12278,2
+Sicilia,AG,Porto Empedocle,7301,1
+Sicilia,AG,Ravanusa,16149,2
+Sicilia,AG,Ribera,18473,4
+Sicilia,AG,Santo Stefano Quisquina,11172,2
+Sicilia,AG,Sciacca,61943,9
+Sicilia,CL,Caltanissetta,66479,10
+Sicilia,CL,Gela,47565,7
+Sicilia,CL,Mussomeli,16702,2
+Sicilia,CL,Niscemi,16149,3
+Sicilia,CL,San Cataldo,13937,3
+Sicilia,CL,Santa Caterina Villarmosa,7301,1
+Sicilia,CL,Serradifalco,7301,1
+Sicilia,CL,Sommatino,7301,1
+Sicilia,CT,Aci Castello,9513,2
+Sicilia,CT,Aci Catena,17808,3
+Sicilia,CT,Acireale,36834,7
+Sicilia,CT,Adrano,28427,4
+Sicilia,CT,Belpasso,20020,2
+Sicilia,CT,Bronte,50547,6
+Sicilia,CT,Calatabiano,10619,2
+Sicilia,CT,Caltagirone,52318,7
+Sicilia,CT,Castel di Iudica,12278,2
+Sicilia,CT,Catania,236159,35
+Sicilia,CT,Giarre,65814,10
+Sicilia,CT,Gravina di Catania,18361,2
+Sicilia,CT,Linguaglossa,7301,1
+Sicilia,CT,Maletto,12278,2
+Sicilia,CT,Maniace,11725,2
+Sicilia,CT,Mascalucia,49665,7
+Sicilia,CT,Mirabella Imbaccari,20020,2
+Sicilia,CT,Misterbianco,47453,7
+Sicilia,CT,Motta Sant'Anastasia,11725,2
+Sicilia,CT,Nicolosi,23450,4
+Sicilia,CT,Palagonia,20020,2
+Sicilia,CT,Paternò,29533,4
+Sicilia,CT,Randazzo,8848,1
+Sicilia,CT,San Giovanni la Punta,11172,2
+Sicilia,CT,Sant'Agata li Battiati,21679,3
+Sicilia,CT,Tremestieri Etneo,7301,1
+Sicilia,CT,Viagrande,11725,2
+Sicilia,CT,Zafferana Etnea,7742,2
+Sicilia,EN,Agira,13384,2
+Sicilia,EN,Assoro,10619,2
+Sicilia,EN,Barrafranca,7301,1
+Sicilia,EN,Enna,61943,9
+Sicilia,EN,Leonforte,10619,2
+Sicilia,EN,Nicosia,28539,5
+Sicilia,EN,Piazza Armerina,38605,7
+Sicilia,EN,Pietraperzia,7301,1
+Sicilia,EN,Regalbuto,10066,2
+Sicilia,EN,Troina,28868,3
+Sicilia,EN,Valguarnera Caropepe,10619,2
+Sicilia,ME,Acquedolci,7301,1
+Sicilia,ME,Barcellona Pozzo di Gotto,66808,8
+Sicilia,ME,Brolo,20020,2
+Sicilia,ME,Capo d'Orlando,25109,3
+Sicilia,ME,Castell'Umberto,17255,2
+Sicilia,ME,Lipari,13937,2
+Sicilia,ME,Messina,178633,21
+Sicilia,ME,Milazzo,24444,3
+Sicilia,ME,Patti,10619,2
+Sicilia,ME,Roccalumera,7301,1
+Sicilia,ME,San Filippo del Mela,12831,2
+Sicilia,ME,Sant'Agata di Militello,34622,4
+Sicilia,ME,Santa Teresa di Riva,22344,3
+Sicilia,ME,Santo Stefano di Camastra,12166,1
+Sicilia,ME,Saponara,7301,1
+Sicilia,ME,Tusa,13937,2
+Sicilia,ME,Venetico,7301,1
+Sicilia,PA,Bagheria,16149,2
+Sicilia,PA,Bisacquino,20020,2
+Sicilia,PA,Camporeale,17808,2
+Sicilia,PA,Castellana Sicula,17808,2
+Sicilia,PA,Corleone,7301,1
+Sicilia,PA,Gangi,35063,4
+Sicilia,PA,Lercara Friddi,25109,3
+Sicilia,PA,Misilmeri,7301,1
+Sicilia,PA,Monreale,9513,2
+Sicilia,PA,Palermo,130746,18
+Sicilia,PA,Partinico,34510,4
+Sicilia,PA,Prizzi,16702,2
+Sicilia,PA,San Giuseppe Jato,20020,2
+Sicilia,PA,Terrasini,17808,2
+Sicilia,PA,Villafrati,16702,2
+Sicilia,RG,Comiso,11172,2
+Sicilia,RG,Modica,16261,3
+Sicilia,RG,Pozzallo,9513,2
+Sicilia,RG,Ragusa,38934,6
+Sicilia,RG,Vittoria,36722,5
+Sicilia,SR,Augusta,31304,6
+Sicilia,SR,Ferla,20020,2
+Sicilia,SR,Floridia,14602,2
+Sicilia,SR,Lentini,30751,6
+Sicilia,SR,Pachino,32298,4
+Sicilia,SR,Siracusa,103978,17
+Sicilia,TP,Alcamo,77756,8
+Sicilia,TP,Calatafimi-Segesta,10507,1
+Sicilia,TP,Campobello di Mazara,20020,2
+Sicilia,TP,Castellammare del Golfo,7301,1
+Sicilia,TP,Castelvetrano,42140,4
+Sicilia,TP,Custonaci,17808,2
+Sicilia,TP,Erice,68243,7
+Sicilia,TP,Favignana,17808,2
+Sicilia,TP,Marsala,123879,13
+Sicilia,TP,Mazara del Vallo,67802,7
+Sicilia,TP,Paceco,10507,1
+Sicilia,TP,Partanna,20020,2
+Sicilia,TP,Petrosino,20020,2
+Sicilia,TP,Salemi,29533,4
+Sicilia,TP,Trapani,111601,12
+Sicilia,TP,Valderice,20020,2
+Toscana,AR,Anghiari,4977,1
+Toscana,AR,Arezzo,103201,14
+Toscana,AR,Bibbiena,39599,6
+Toscana,AR,Bucine,11725,2
+Toscana,AR,Capolona,10619,2
+Toscana,AR,Castelfranco Piandiscò,17255,2
+Toscana,AR,Castiglion Fiorentino,15043,2
+Toscana,AR,Cavriglia,20020,2
+Toscana,AR,Civitella in Val di Chiana,20020,2
+Toscana,AR,Cortona,42364,6
+Toscana,AR,Foiano della Chiana,9513,2
+Toscana,AR,Loro Ciuffenna,20020,2
+Toscana,AR,Monte San Savino,20020,2
+Toscana,AR,Montevarchi,25109,3
+Toscana,AR,San Giovanni Valdarno,20132,4
+Toscana,AR,Sansepolcro,30639,4
+Toscana,AR,Sestino,7301,1
+Toscana,FI,Barberino Tavarnelle,7301,1
+Toscana,FI,Borgo San Lorenzo,12278,2
+Toscana,FI,Calenzano,16702,2
+Toscana,FI,Castelfiorentino,14602,2
+Toscana,FI,Dicomano,20020,2
+Toscana,FI,Empoli,39711,7
+Toscana,FI,Fiesole,16702,2
+Toscana,FI,Firenze,234829,31
+Toscana,FI,Firenzuola,16149,2
+Toscana,FI,Fucecchio,7301,1
+Toscana,FI,Gambassi Terme,12719,1
+Toscana,FI,Greve in Chianti,12278,2
+Toscana,FI,Marradi,3318,1
+Toscana,FI,Pontassieve,12278,2
+Toscana,FI,Scandicci,37387,5
+Toscana,FI,Sesto Fiorentino,23450,4
+Toscana,FI,Signa,7301,1
+Toscana,FI,Vicchio,17808,2
+Toscana,FI,Vinci,16702,2
+Toscana,GR,Arcidosso,7301,1
+Toscana,GR,Castel del Piano,7301,1
+Toscana,GR,Civitella Paganico,7301,1
+Toscana,GR,Follonica,34069,6
+Toscana,GR,Grosseto,79975,13
+Toscana,GR,Manciano,9513,2
+Toscana,GR,Massa Marittima,1659,1
+Toscana,GR,Monte Argentario,19026,4
+Toscana,GR,Orbetello,34510,4
+Toscana,GR,Pitigliano,13937,2
+Toscana,GR,Roccastrada,7301,1
+Toscana,GR,Santa Fiora,13384,2
+Toscana,GR,Sorano,15043,2
+Toscana,LI,Castagneto Carducci,10066,2
+Toscana,LI,Cecina,17920,3
+Toscana,LI,Collesalvetti,17696,2
+Toscana,LI,Livorno,55195,8
+Toscana,LI,Porto Azzurro,4424,1
+Toscana,LI,Rosignano Marittimo,10507,1
+Toscana,LI,San Vincenzo,20020,2
+Toscana,LU,Altopascio,7301,1
+Toscana,LU,Bagni di Lucca,16702,2
+Toscana,LU,Barga,36722,4
+Toscana,LU,Borgo a Mozzano,16702,2
+Toscana,LU,Camaiore,31304,4
+Toscana,LU,Capannori,41811,5
+Toscana,LU,Castelnuovo di Garfagnana,25109,3
+Toscana,LU,Coreglia Antelminelli,17255,2
+Toscana,LU,Forte dei Marmi,7301,1
+Toscana,LU,Gallicano,18361,2
+Toscana,LU,Lucca,137158,20
+Toscana,LU,Massarosa,9954,1
+Toscana,LU,Montecarlo,15043,2
+Toscana,LU,Piazza al Serchio,18361,2
+Toscana,LU,Pietrasanta,37828,4
+Toscana,LU,Seravezza,17255,2
+Toscana,LU,Viareggio,99771,12
+Toscana,MS,Carrara,64155,8
+Toscana,MS,Massa,63602,10
+Toscana,MS,Montignoso,6636,1
+Toscana,MS,Pontremoli,10619,2
+Toscana,MS,Villafranca in Lunigiana,16702,2
+Toscana,PI,Bientina,12278,2
+Toscana,PI,Capannoli,10066,2
+Toscana,PI,Casciana Terme Lari,17255,2
+Toscana,PI,Cascina,44023,6
+Toscana,PI,Castelfranco di Sotto,3318,1
+Toscana,PI,Montescudaio,17808,2
+Toscana,PI,Montopoli in Val d'Arno,7301,1
+Toscana,PI,Peccioli,11172,2
+Toscana,PI,Pisa,94794,12
+Toscana,PI,Ponsacco,17255,2
+Toscana,PI,Pontedera,21791,4
+Toscana,PI,San Giuliano Terme,16702,2
+Toscana,PI,San Miniato,18361,2
+Toscana,PI,Vecchiano,7301,1
+Toscana,PI,Vicopisano,17808,2
+Toscana,PI,Volterra,33845,4
+Toscana,PO,Montemurlo,11725,2
+Toscana,PO,Prato,77427,14
+Toscana,PO,Vaiano,12719,1
+Toscana,PT,Agliana,4977,1
+Toscana,PT,Larciano,18361,2
+Toscana,PT,Massa e Cozzile,20020,2
+Toscana,PT,Monsummano Terme,3318,1
+Toscana,PT,Montale,7301,1
+Toscana,PT,Montecatini-Terme,7301,1
+Toscana,PT,Pescia,41811,6
+Toscana,PT,Pistoia,38605,7
+Toscana,PT,Ponte Buggianese,4977,1
+Toscana,PT,Quarrata,10619,2
+Toscana,PT,Serravalle Pistoiese,1659,1
+Toscana,SI,Asciano,8960,2
+Toscana,SI,Castelnuovo Berardenga,12278,2
+Toscana,SI,Cetona,7301,1
+Toscana,SI,Chianciano Terme,38934,4
+Toscana,SI,Chiusi,20020,2
+Toscana,SI,Colle di Val d'Elsa,18473,3
+Toscana,SI,Montalcino,10619,2
+Toscana,SI,Montepulciano,32298,4
+Toscana,SI,Monteriggioni,8960,2
+Toscana,SI,Monteroni d'Arbia,8960,2
+Toscana,SI,Piancastagnaio,7301,1
+Toscana,SI,Poggibonsi,30639,5
+Toscana,SI,San Gimignano,2765,1
+Toscana,SI,Siena,72562,11
+Toscana,SI,Sinalunga,7301,1
+Toscana,SI,Sovicille,9513,2
+Toscana,SI,Torrita di Siena,17255,2
+Trentino-Alto Adige/Südtirol,BZ,Appiano sulla strada del vino,7301,1
+Trentino-Alto Adige/Südtirol,BZ,Badia,10066,2
+Trentino-Alto Adige/Südtirol,BZ,Bolzano,30198,6
+Trentino-Alto Adige/Südtirol,BZ,Bressanone,10066,2
+Trentino-Alto Adige/Südtirol,BZ,Brunico,47565,9
+Trentino-Alto Adige/Südtirol,BZ,Chiusa,10066,2
+Trentino-Alto Adige/Südtirol,BZ,Laces,7301,1
+Trentino-Alto Adige/Südtirol,BZ,Laives,10066,2
+Trentino-Alto Adige/Südtirol,BZ,Marebbe,15596,2
+Trentino-Alto Adige/Südtirol,BZ,Merano,22897,4
+Trentino-Alto Adige/Südtirol,BZ,San Leonardo in Passiria,7301,1
+Trentino-Alto Adige/Südtirol,BZ,San Martino in Passiria,7301,1
+Trentino-Alto Adige/Südtirol,BZ,Valdaora,10066,2
+Trentino-Alto Adige/Südtirol,BZ,Vipiteno,20132,4
+Trentino-Alto Adige/Südtirol,TN,Ala,7301,1
+Trentino-Alto Adige/Südtirol,TN,Altopiano della Vigolana,7301,1
+Trentino-Alto Adige/Südtirol,TN,Arco,7301,1
+Trentino-Alto Adige/Südtirol,TN,Avio,7301,1
+Trentino-Alto Adige/Südtirol,TN,Baselga di Pinè,7301,1
+Trentino-Alto Adige/Südtirol,TN,Borgo d'Anaunia,7301,1
+Trentino-Alto Adige/Südtirol,TN,Borgo Valsugana,7301,1
+Trentino-Alto Adige/Südtirol,TN,Brentonico,7301,1
+Trentino-Alto Adige/Südtirol,TN,Castel Ivano,7301,1
+Trentino-Alto Adige/Südtirol,TN,Cembra Lisignago,7301,1
+Trentino-Alto Adige/Südtirol,TN,Civezzano,7301,1
+Trentino-Alto Adige/Südtirol,TN,Cles,14602,2
+Trentino-Alto Adige/Südtirol,TN,Comano Terme,7301,1
+Trentino-Alto Adige/Südtirol,TN,Denno,9513,2
+Trentino-Alto Adige/Südtirol,TN,Folgaria,7301,1
+Trentino-Alto Adige/Südtirol,TN,Lavis,7301,1
+Trentino-Alto Adige/Südtirol,TN,Ledro,7301,1
+Trentino-Alto Adige/Südtirol,TN,Malé,8960,2
+Trentino-Alto Adige/Südtirol,TN,Mezzolombardo,14602,2
+Trentino-Alto Adige/Südtirol,TN,Ossana,7301,1
+Trentino-Alto Adige/Südtirol,TN,Pergine Valsugana,7301,1
+Trentino-Alto Adige/Südtirol,TN,Pinzolo,7301,1
+Trentino-Alto Adige/Südtirol,TN,Predaia,7301,1
+Trentino-Alto Adige/Südtirol,TN,Riva del Garda,7301,1
+Trentino-Alto Adige/Südtirol,TN,Roncegno Terme,7301,1
+Trentino-Alto Adige/Südtirol,TN,Rovereto,56637,9
+Trentino-Alto Adige/Südtirol,TN,San Giovanni di Fassa,7301,1
+Trentino-Alto Adige/Südtirol,TN,Tione di Trento,19026,3
+Trentino-Alto Adige/Südtirol,TN,Trento,55531,9
+Trentino-Alto Adige/Südtirol,TN,Villa Lagarina,7301,1
+Trentino-Alto Adige/Südtirol,TN,Volano,7301,1
+Umbria,PG,Assisi,61390,8
+Umbria,PG,Bastia Umbra,8960,2
+Umbria,PG,Bevagna,8960,2
+Umbria,PG,Cerreto di Spoleto,7301,1
+Umbria,PG,Città della Pieve,7301,1
+Umbria,PG,Città di Castello,53977,6
+Umbria,PG,Corciano,17255,2
+Umbria,PG,Deruta,7301,1
+Umbria,PG,Foligno,80192,11
+Umbria,PG,Giano dell'Umbria,18361,2
+Umbria,PG,Gualdo Cattaneo,16702,2
+Umbria,PG,Gualdo Tadino,24556,3
+Umbria,PG,Gubbio,26215,5
+Umbria,PG,Magione,7301,1
+Umbria,PG,Marsciano,11172,3
+Umbria,PG,Massa Martana,9954,1
+Umbria,PG,Montefalco,19467,2
+Umbria,PG,Nocera Umbra,9513,2
+Umbria,PG,Norcia,20020,2
+Umbria,PG,Panicale,7301,1
+Umbria,PG,Passignano sul Trasimeno,7301,1
+Umbria,PG,Perugia,176757,28
+Umbria,PG,San Giustino,10619,2
+Umbria,PG,Spello,10619,2
+Umbria,PG,Spoleto,46347,8
+Umbria,PG,Todi,50106,6
+Umbria,PG,Torgiano,14490,2
+Umbria,PG,Trevi,7301,1
+Umbria,PG,Umbertide,27874,4
+Umbria,TR,Acquasparta,8960,2
+Umbria,TR,Allerona,9513,2
+Umbria,TR,Amelia,20020,2
+Umbria,TR,Arrone,7301,1
+Umbria,TR,Attigliano,10619,2
+Umbria,TR,Montecastrilli,8960,2
+Umbria,TR,Narni,34622,4
+Umbria,TR,Orvieto,40040,5
+Umbria,TR,Terni,192129,26
+Valle d'Aosta/Vallée d'Aoste,AO,Aosta,136605,20
+Valle d'Aosta/Vallée d'Aoste,AO,Charvensod,12831,2
+Valle d'Aosta/Vallée d'Aoste,AO,Châtillon,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Gignod,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Morgex,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Nus,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Pont-Saint-Martin,24556,4
+Valle d'Aosta/Vallée d'Aoste,AO,Quart,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Saint-Pierre,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Saint-Vincent,12278,2
+Valle d'Aosta/Vallée d'Aoste,AO,Verrès,37387,6
+Valle d'Aosta/Vallée d'Aoste,AO,Villeneuve,12278,2
+Veneto,BL,Belluno,53536,8
+Veneto,BL,Borgo Valbelluna,10619,2
+Veneto,BL,Cortina d'Ampezzo,16149,2
+Veneto,BL,Feltre,22232,3
+Veneto,BL,Pedavena,12278,2
+Veneto,BL,Pieve di Cadore,7301,1
+Veneto,BL,Ponte nelle Alpi,14490,2
+Veneto,BL,Santa Giustina,12278,2
+Veneto,PD,Abano Terme,21238,4
+Veneto,PD,Cittadella,40040,4
+Veneto,PD,Due Carrare,7301,1
+Veneto,PD,Este,45682,6
+Veneto,PD,Grantorto,11172,2
+Veneto,PD,Legnaro,7301,1
+Veneto,PD,Loreggia,9513,2
+Veneto,PD,Lozzo Atestino,20020,2
+Veneto,PD,Maserà di Padova,10619,2
+Veneto,PD,Monselice,26103,3
+Veneto,PD,Montagnana,36281,5
+Veneto,PD,Noventa Padovana,10619,2
+Veneto,PD,Padova,154854,21
+Veneto,PD,Piazzola sul Brenta,9513,2
+Veneto,PD,Piove di Sacco,25774,5
+Veneto,PD,Ponte San Nicolò,10066,2
+Veneto,PD,Rubano,15596,2
+Veneto,PD,San Martino di Lupari,12831,2
+Veneto,PD,Sant'Angelo di Piove di Sacco,15596,2
+Veneto,PD,Selvazzano Dentro,7301,1
+Veneto,PD,Solesino,10066,2
+Veneto,PD,Teolo,11172,2
+Veneto,PD,Trebaseleghe,7301,1
+Veneto,PD,Vigonza,9513,2
+Veneto,RO,Adria,35063,5
+Veneto,RO,Ariano nel Polesine,12278,2
+Veneto,RO,Badia Polesine,28427,4
+Veneto,RO,Castelmassa,19579,3
+Veneto,RO,Costa di Rovigo,14490,2
+Veneto,RO,Fiesso Umbertiano,13384,2
+Veneto,RO,Lendinara,7301,1
+Veneto,RO,Occhiobello,20020,2
+Veneto,RO,Polesella,10619,2
+Veneto,RO,Porto Tolle,7301,1
+Veneto,RO,Porto Viro,12719,1
+Veneto,RO,Rovigo,38605,6
+Veneto,RO,Stienta,7301,1
+Veneto,RO,Taglio di Po,10619,2
+Veneto,TV,Asolo,10066,2
+Veneto,TV,Cappella Maggiore,11172,2
+Veneto,TV,Carbonera,7301,1
+Veneto,TV,Casier,11725,2
+Veneto,TV,Castelfranco Veneto,54089,7
+Veneto,TV,Conegliano,57183,6
+Veneto,TV,Cordignano,10619,2
+Veneto,TV,Cornuda,7301,1
+Veneto,TV,Follina,20020,2
+Veneto,TV,Gaiarine,7301,1
+Veneto,TV,Istrana,10066,2
+Veneto,TV,Maserada sul Piave,7301,1
+Veneto,TV,Mogliano Veneto,18361,2
+Veneto,TV,Montebelluna,21679,3
+Veneto,TV,Motta di Livenza,20020,2
+Veneto,TV,Oderzo,26768,3
+Veneto,TV,Paese,11725,2
+Veneto,TV,Pederobba,7301,1
+Veneto,TV,Pieve di Soligo,7301,1
+Veneto,TV,Ponte di Piave,8960,2
+Veneto,TV,Preganziol,7301,1
+Veneto,TV,Riese Pio X,12831,2
+Veneto,TV,San Biagio di Callalta,7301,1
+Veneto,TV,San Fior,18914,2
+Veneto,TV,San Vendemiano,14490,2
+Veneto,TV,San Zenone degli Ezzelini,12278,2
+Veneto,TV,Santa Lucia di Piave,20020,2
+Veneto,TV,Spresiano,7301,1
+Veneto,TV,Treviso,49224,7
+Veneto,TV,Valdobbiadene,36169,4
+Veneto,TV,Villorba,21679,3
+Veneto,TV,Vittorio Veneto,68138,12
+Veneto,TV,Volpago del Montello,19467,2
+Veneto,VE,Chioggia,12831,2
+Veneto,VE,Dolo,7301,1
+Veneto,VE,Eraclea,7301,1
+Veneto,VE,Fossalta di Portogruaro,12278,2
+Veneto,VE,Fossò,7301,1
+Veneto,VE,Jesolo,5530,1
+Veneto,VE,Marcon,14490,2
+Veneto,VE,Martellago,17367,3
+Veneto,VE,Mira,7301,1
+Veneto,VE,Mirano,13937,2
+Veneto,VE,Portogruaro,11725,2
+Veneto,VE,Salzano,7301,1
+Veneto,VE,San Donà di Piave,77539,12
+Veneto,VE,San Stino di Livenza,20020,2
+Veneto,VE,Spinea,20020,3
+Veneto,VE,Venezia,159390,22
+Veneto,VI,Altissimo,20020,2
+Veneto,VI,Arzignano,26768,4
+Veneto,VI,Bassano del Grappa,25774,4
+Veneto,VI,Bolzano Vicentino,7301,1
+Veneto,VI,Breganze,22785,3
+Veneto,VI,Camisano Vicentino,8960,2
+Veneto,VI,Carrè,7301,1
+Veneto,VI,Cornedo Vicentino,12278,2
+Veneto,VI,Costabissara,7301,1
+Veneto,VI,Dueville,7301,1
+Veneto,VI,Isola Vicentina,12278,2
+Veneto,VI,Longare,7301,1
+Veneto,VI,Lonigo,12278,3
+Veneto,VI,Lugo di Vicenza,3318,1
+Veneto,VI,Malo,9513,2
+Veneto,VI,Marano Vicentino,7301,1
+Veneto,VI,Marostica,10619,2
+Veneto,VI,Montebello Vicentino,17808,2
+Veneto,VI,Montecchio Maggiore,37828,4
+Veneto,VI,Montegalda,2765,1
+Veneto,VI,Nove,9513,2
+Veneto,VI,Recoaro Terme,2765,1
+Veneto,VI,Romano d'Ezzelino,18361,2
+Veneto,VI,Rosà,20020,2
+Veneto,VI,Rossano Veneto,12831,2
+Veneto,VI,Sandrigo,7301,1
+Veneto,VI,Schio,21238,3
+Veneto,VI,Sossano,7301,1
+Veneto,VI,Sovizzo,7301,1
+Veneto,VI,Tezze sul Brenta,7301,1
+Veneto,VI,Thiene,14490,3
+Veneto,VI,Torri di Quartesolo,20020,2
+Veneto,VI,Trissino,7301,1
+Veneto,VI,Vicenza,93135,13
+Veneto,VR,Bardolino,20020,2
+Veneto,VR,Bosco Chiesanuova,7301,1
+Veneto,VR,Bovolone,10066,2
+Veneto,VR,Casaleone,20020,2
+Veneto,VR,Castel d'Azzano,7301,1
+Veneto,VR,Castelnuovo del Garda,17808,2
+Veneto,VR,Cavaion Veronese,17808,2
+Veneto,VR,Fumane,20020,2
+Veneto,VR,Garda,14378,2
+Veneto,VR,Grezzana,7301,1
+Veneto,VR,Isola della Scala,11172,2
+Veneto,VR,Legnago,24003,4
+Veneto,VR,Malcesine,17808,2
+Veneto,VR,Minerbe,9513,2
+Veneto,VR,Monteforte d'Alpone,8960,2
+Veneto,VR,Mozzecane,7301,1
+Veneto,VR,Negrar di Valpolicella,17808,2
+Veneto,VR,Nogara,7301,1
+Veneto,VR,Pescantina,37275,4
+Veneto,VR,San Giovanni Lupatoto,27321,3
+Veneto,VR,San Martino Buon Albergo,17255,2
+Veneto,VR,San Pietro in Cariano,28427,4
+Veneto,VR,Sanguinetto,7301,1
+Veneto,VR,Sant'Ambrogio di Valpolicella,9513,2
+Veneto,VR,Sommacampagna,14490,2
+Veneto,VR,Sona,29974,3
+Veneto,VR,Tregnago,17808,2
+Veneto,VR,Valeggio sul Mincio,17808,2
+Veneto,VR,Verona,287917,37
+Veneto,VR,Villa Bartolomea,18914,2
+Veneto,VR,Villafranca di Verona,33957,5
+Veneto,VR,Zevio,7301,1

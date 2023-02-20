@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Abruzzo",
+    "value": 1082662,
+    "children": [
+      {
+        "name": "AQ",
+        "value": 130193,
+        "children": null
+      },
+      {
+        "name": "CH",
+        "value": 300195,
+        "children": null
+      },
+      {
+        "name": "PE",
+        "value": 336259,
+        "children": null
+      },
+      {
+        "name": "TE",
+        "value": 316015,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Basilicata",
+    "value": 518560,
+    "children": [
+      {
+        "name": "MT",
+        "value": 190148,
+        "children": null
+      },
+      {
+        "name": "PZ",
+        "value": 328412,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Calabria",
+    "value": 2704156,
+    "children": [
+      {
+        "name": "CS",
+        "value": 1046458,
+        "children": null
+      },
+      {
+        "name": "CZ",
+        "value": 538223,
+        "children": null
+      },
+      {
+        "name": "KR",
+        "value": 282394,
+        "children": null
+      },
+      {
+        "name": "RC",
+        "value": 669515,
+        "children": null
+      },
+      {
+        "name": "VV",
+        "value": 167566,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Campania",
+    "value": 7023289,
+    "children": [
+      {
+        "name": "AV",
+        "value": 431501,
+        "children": null
+      },
+      {
+        "name": "BN",
+        "value": 539777,
+        "children": null
+      },
+      {
+        "name": "CE",
+        "value": 1349558,
+        "children": null
+      },
+      {
+        "name": "NA",
+        "value": 3278002,
+        "children": null
+      },
+      {
+        "name": "SA",
+        "value": 1424451,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Emilia-Romagna",
+    "value": 2487590,
+    "children": [
+      {
+        "name": "BO",
+        "value": 623091,
+        "children": null
+      },
+      {
+        "name": "FC",
+        "value": 384818,
+        "children": null
+      },
+      {
+        "name": "FE",
+        "value": 141701,
+        "children": null
+      },
+      {
+        "name": "MO",
+        "value": 298326,
+        "children": null
+      },
+      {
+        "name": "PC",
+        "value": 153643,
+        "children": null
+      },
+      {
+        "name": "PR",
+        "value": 223993,
+        "children": null
+      },
+      {
+        "name": "RA",
+        "value": 181846,
+        "children": null
+      },
+      {
+        "name": "RE",
+        "value": 354522,
+        "children": null
+      },
+      {
+        "name": "RN",
+        "value": 125650,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "value": 847973,
+    "children": [
+      {
+        "name": "GO",
+        "value": 157185,
+        "children": null
+      },
+      {
+        "name": "PN",
+        "value": 232841,
+        "children": null
+      },
+      {
+        "name": "TS",
+        "value": 86835,
+        "children": null
+      },
+      {
+        "name": "UD",
+        "value": 371112,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Lazio",
+    "value": 6220550,
+    "children": [
+      {
+        "name": "FR",
+        "value": 694078,
+        "children": null
+      },
+      {
+        "name": "LT",
+        "value": 877247,
+        "children": null
+      },
+      {
+        "name": "RI",
+        "value": 71232,
+        "children": null
+      },
+      {
+        "name": "RM",
+        "value": 4350577,
+        "children": null
+      },
+      {
+        "name": "VT",
+        "value": 227416,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Liguria",
+    "value": 931245,
+    "children": [
+      {
+        "name": "GE",
+        "value": 543767,
+        "children": null
+      },
+      {
+        "name": "IM",
+        "value": 185164,
+        "children": null
+      },
+      {
+        "name": "SP",
+        "value": 80304,
+        "children": null
+      },
+      {
+        "name": "SV",
+        "value": 122010,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Lombardia",
+    "value": 7613263,
+    "children": [
+      {
+        "name": "BG",
+        "value": 705607,
+        "children": null
+      },
+      {
+        "name": "BS",
+        "value": 973056,
+        "children": null
+      },
+      {
+        "name": "CO",
+        "value": 513562,
+        "children": null
+      },
+      {
+        "name": "CR",
+        "value": 282730,
+        "children": null
+      },
+      {
+        "name": "LC",
+        "value": 223118,
+        "children": null
+      },
+      {
+        "name": "LO",
+        "value": 200872,
+        "children": null
+      },
+      {
+        "name": "MB",
+        "value": 751380,
+        "children": null
+      },
+      {
+        "name": "MI",
+        "value": 2320696,
+        "children": null
+      },
+      {
+        "name": "MN",
+        "value": 179641,
+        "children": null
+      },
+      {
+        "name": "PV",
+        "value": 239694,
+        "children": null
+      },
+      {
+        "name": "SO",
+        "value": 178864,
+        "children": null
+      },
+      {
+        "name": "VA",
+        "value": 1044043,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Marche",
+    "value": 1683535,
+    "children": [
+      {
+        "name": "AN",
+        "value": 627284,
+        "children": null
+      },
+      {
+        "name": "AP",
+        "value": 203196,
+        "children": null
+      },
+      {
+        "name": "FM",
+        "value": 94577,
+        "children": null
+      },
+      {
+        "name": "MC",
+        "value": 396662,
+        "children": null
+      },
+      {
+        "name": "PU",
+        "value": 361816,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Molise",
+    "value": 824698,
+    "children": [
+      {
+        "name": "CB",
+        "value": 691299,
+        "children": null
+      },
+      {
+        "name": "IS",
+        "value": 133399,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Piemonte",
+    "value": 2849798,
+    "children": [
+      {
+        "name": "AL",
+        "value": 201537,
+        "children": null
+      },
+      {
+        "name": "AT",
+        "value": 53095,
+        "children": null
+      },
+      {
+        "name": "BI",
+        "value": 138152,
+        "children": null
+      },
+      {
+        "name": "CN",
+        "value": 460040,
+        "children": null
+      },
+      {
+        "name": "NO",
+        "value": 236264,
+        "children": null
+      },
+      {
+        "name": "TO",
+        "value": 1468698,
+        "children": null
+      },
+      {
+        "name": "VB",
+        "value": 141911,
+        "children": null
+      },
+      {
+        "name": "VC",
+        "value": 150101,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Puglia",
+    "value": 4215113,
+    "children": [
+      {
+        "name": "BA",
+        "value": 1431822,
+        "children": null
+      },
+      {
+        "name": "BR",
+        "value": 329735,
+        "children": null
+      },
+      {
+        "name": "BT",
+        "value": 265132,
+        "children": null
+      },
+      {
+        "name": "FG",
+        "value": 750925,
+        "children": null
+      },
+      {
+        "name": "LE",
+        "value": 865298,
+        "children": null
+      },
+      {
+        "name": "TA",
+        "value": 572201,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Sardegna",
+    "value": 872830,
+    "children": [
+      {
+        "name": "CA",
+        "value": 131516,
+        "children": null
+      },
+      {
+        "name": "NU",
+        "value": 160496,
+        "children": null
+      },
+      {
+        "name": "OR",
+        "value": 97118,
+        "children": null
+      },
+      {
+        "name": "SS",
+        "value": 281281,
+        "children": null
+      },
+      {
+        "name": "SU",
+        "value": 202419,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Sicilia",
+    "value": 3459687,
+    "children": [
+      {
+        "name": "AG",
+        "value": 303744,
+        "children": null
+      },
+      {
+        "name": "CL",
+        "value": 182735,
+        "children": null
+      },
+      {
+        "name": "CT",
+        "value": 860335,
+        "children": null
+      },
+      {
+        "name": "EN",
+        "value": 227864,
+        "children": null
+      },
+      {
+        "name": "ME",
+        "value": 481929,
+        "children": null
+      },
+      {
+        "name": "PA",
+        "value": 392560,
+        "children": null
+      },
+      {
+        "name": "RG",
+        "value": 112602,
+        "children": null
+      },
+      {
+        "name": "SR",
+        "value": 232953,
+        "children": null
+      },
+      {
+        "name": "TP",
+        "value": 664965,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Toscana",
+    "value": 2974230,
+    "children": [
+      {
+        "name": "AR",
+        "value": 417557,
+        "children": null
+      },
+      {
+        "name": "FI",
+        "value": 528836,
+        "children": null
+      },
+      {
+        "name": "GR",
+        "value": 250320,
+        "children": null
+      },
+      {
+        "name": "LI",
+        "value": 135828,
+        "children": null
+      },
+      {
+        "name": "LU",
+        "value": 553938,
+        "children": null
+      },
+      {
+        "name": "MS",
+        "value": 161714,
+        "children": null
+      },
+      {
+        "name": "PI",
+        "value": 351078,
+        "children": null
+      },
+      {
+        "name": "PO",
+        "value": 101871,
+        "children": null
+      },
+      {
+        "name": "PT",
+        "value": 158949,
+        "children": null
+      },
+      {
+        "name": "SI",
+        "value": 314139,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Trentino-Alto Adige/Südtirol",
+    "value": 570017,
+    "children": [
+      {
+        "name": "BZ",
+        "value": 215922,
+        "children": null
+      },
+      {
+        "name": "TN",
+        "value": 354095,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Umbria",
+    "value": 1106777,
+    "children": [
+      {
+        "name": "PG",
+        "value": 774613,
+        "children": null
+      },
+      {
+        "name": "TR",
+        "value": 332164,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Valle d'Aosta/Vallée d'Aoste",
+    "value": 309603,
+    "children": [
+      {
+        "name": "AO",
+        "value": 309603,
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Veneto",
+    "value": 3271891,
+    "children": [
+      {
+        "name": "BL",
+        "value": 148883,
+        "children": null
+      },
+      {
+        "name": "PD",
+        "value": 535472,
+        "children": null
+      },
+      {
+        "name": "RO",
+        "value": 237706,
+        "children": null
+      },
+      {
+        "name": "TV",
+        "value": 631372,
+        "children": null
+      },
+      {
+        "name": "VE",
+        "value": 401632,
+        "children": null
+      },
+      {
+        "name": "VI",
+        "value": 515676,
+        "children": null
+      },
+      {
+        "name": "VR",
+        "value": 801150,
+        "children": null
+      }
+    ]
+  }
+]
