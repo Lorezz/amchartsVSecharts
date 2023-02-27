@@ -38,13 +38,16 @@ function App({ myData }) {
 
   function setupChart(root) {
     const colors = [
-      am5.color(0x5c6f82),
-      am5.color(0xbfdfff),
-      am5.color(0x207bd6),
+      am5.color(0x003366),
       am5.color(0x004d99),
-      am5.color(0x6aaaeb),
-      am5.color(0x94c4f5),
       am5.color(0x0066cc),
+      am5.color(0x207ad5),
+      am5.color(0x4392e0),
+      am5.color(0xd48d22),
+      am5.color(0xcc7a00),
+      am5.color(0xb36b00),
+      am5.color(0x995c00),
+      am5.color(0x804d00),
     ];
     const myTheme = am5.Theme.new(root);
     myTheme.rule('Label').setAll({

@@ -1,38 +1,39 @@
 import ReactEcharts from 'echarts-for-react';
+import { useEffect, useState } from 'react';
+// const sampleData = [
+//   {
+//     name: 'Abilitazione cloud',
+//     value: 34,
+//   },
+//   {
+//     name: 'Adozione PagoPa e AppIo',
+//     value: 32,
+//   },
+//   {
+//     name: 'Esperienza cittadino',
+//     value: 26,
+//   },
+//   {
+//     children: [
+//       {
+//         name: 'Adozione identità digitale',
+//         value: 5,
+//       },
+//       {
+//         name: 'Esperienza cittadino',
+//         value: 2,
+//       },
+//     ],
+//   },
+// ];
 
-const sampleData = [
-  {
-    name: 'Abilitazione cloud',
-    value: 34,
-  },
-  {
-    name: 'Adozione PagoPa e AppIo',
-    value: 32,
-  },
-  {
-    name: 'Esperienza cittadino',
-    value: 26,
-  },
-  {
-    children: [
-      {
-        name: 'Adozione identità digitale',
-        value: 5,
-      },
-      {
-        name: 'Esperienza cittadino',
-        value: 2,
-      },
-    ],
-  },
-];
-
-function App({ data }) {
+function App({ data, levelOptions, depth }) {
+  const [opts, setOptions] = useState(null);
   function getLevelOption() {
     return [
       {
         itemStyle: {
-          borderColor: '#777',
+          borderColor: '#fff',
           borderWidth: 0,
           gapWidth: 1,
         },
@@ -42,13 +43,13 @@ function App({ data }) {
       },
       {
         itemStyle: {
-          borderColor: '#555',
+          borderColor: '#f2f7fc',
           borderWidth: 5,
           gapWidth: 1,
         },
         emphasis: {
           itemStyle: {
-            borderColor: '#ddd',
+            borderColor: '#fff',
           },
         },
       },
@@ -62,51 +63,70 @@ function App({ data }) {
       },
     ];
   }
-  function options(data) {
+  function getOptions(data) {
+    const upperLabel = levelOptions
+      ? {
+          show: levelOptions ? true : false,
+          height: 30,
+        }
+      : null;
+    const levels = levelOptions ? getLevelOption() : null;
+    const leafDepth = depth ? depth : 'drill down';
+    // const select = {
+    //   disabled: true,
+    //   label: {
+    //     show: false,
+    //   },
+    // };
+    // const emphasis = { disabled: true };
+
+    console.log('leafDepth', leafDepth);
+
     return {
-      color: ['#5c6f82', '#BFDFFF', '#207BD6', '#004D99', '#6AAAEB'],
+      color: [
+        '#003366',
+        '#004D99',
+        '#0066CC',
+        '#207AD5',
+        '#4392E0',
+        '#D48D22',
+        '#CC7A00',
+        '#B36B00',
+        '#995C00',
+        '#804D00',
+      ],
       textStyle: {
         fontWeight: 'normal',
         fontSize: 12,
       },
+      tooltip: {},
       series: [
         {
           type: 'treemap',
-          // roam: false,
-          upperLabel: {
-            show: true,
-            height: 30,
-          },
+          roam: true,
           itemStyle: {
             borderColor: '#fff',
           },
-          // levels: getLevelOption(),
-
-          // label: {
-          //   show: true,
-          //   // formatter: '  {b} ',
-          //   // normal: {
-          //   //   textStyle: {
-          //   //     ellipsis: true,
-          //   //   },
-          //   // },
-          // },
-          // visualMin: -100,
-          // visualMax: 100,
-          // visualDimension: 3,
+          breadcrumb: {
+            show: depth ? true : false,
+          },
+          leafDepth,
+          upperLabel,
+          levels,
           data,
         },
       ],
     };
   }
 
-  if (!data || data.length === 0) return null;
-
+  useEffect(() => {
+    setOptions(getOptions(data));
+  }, [data, levelOptions, depth]);
+  if (!opts) return null;
   return (
-    <ReactEcharts
-      option={options(data)}
-      style={{ width: '100%', height: '500px' }}
-    />
+    <div className="chart-container">
+      <ReactEcharts option={opts} style={{ width: '100%', height: '500px' }} />
+    </div>
   );
 }
 
